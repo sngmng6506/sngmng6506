@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={sngmng}&theme=warm)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=sngmng&theme=warm)
 
 
 <!--
