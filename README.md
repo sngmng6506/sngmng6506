@@ -97,8 +97,13 @@ Learning Backend Development now.
 - **Backend**: FastAPI, Node.js, NestJS
 - **ML/DL**: PyTorch
 
-
 ---
+
+## 📚 Study & Community
+- Organizer of an AI study group  
+- Weekly study sessions (Every Saturday)  
+- Study group: https://www.somoim.co.kr/eb377bbe-e53f-46c2-a0a3-89b7dd98667c1
+
 
 ### 📫 Contact
 📫 sngmng6506@gmail.com 
