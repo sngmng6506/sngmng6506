@@ -22,10 +22,6 @@ Learning Backend Development now.
 - Exploring LLM-based systems for production environments
 
 
-### 🎓 The Catholic University of Korea – Department of Physics
-**B.S. in Physics** (2016 – 2023)
-- Studied fundamental physics, mathematics
-
 
 ### 🎓 [Hanyang University – AI Graduate School](https://dilab.hanyang.ac.kr/)
 https://dilab.hanyang.ac.kr/
@@ -48,6 +44,15 @@ https://dilab.hanyang.ac.kr/
 - Explainable AI (XAI)
 - Tabular & Time-series Data
 - Industrial / Manufacturing AI
+
+
+### 🎓 The Catholic University of Korea – Department of Physics
+**B.S. in Physics** (2016 – 2023)
+- Studied fundamental physics, mathematics
+**Undergraduate Research Experience**
+- Undergraduate researcher at [**Network & Systems Lab (NSLab)** (2023)] ( https://nslab-cuk.github.io/lecture/)
+- Participated in research-oriented study sessions on systems, networking, and data analysis
+- Lecture resources and materials: 
 
 
 ---
