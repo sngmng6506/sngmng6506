@@ -53,7 +53,7 @@ Learning Backend Development now.
 - Undergraduate researcher at [**Network & Systems Lab (NSLab)**](https://nslab-cuk.github.io/) (2023)
 - Participated in research on medical knowledge graph representation learning
 - Contributed to the paper:  
-  **“Companion Animal Disease Diagnostics Based on Literal-Aware Medical Knowledge Graph Representation Learning”**
+  **“Companion Animal Disease Diagnostics Based on Literal-Aware Medical Knowledge Graph Representation Learning”** *(Co-author)*
 
 
 ---
