@@ -31,7 +31,7 @@ Learning Backend Development now.
   - Designed interpretable models for structured data
   - Analyzed feature attribution and model behavior on real-world datasets
 
-**Graduate Projects**
+**Projects**
 - **Anomaly Detection on Industrial Time-series**
   - Developed anomaly detection models for multivariate sensor data
 
@@ -60,23 +60,23 @@ Learning Backend Development now.
 
 ## 📄 Publications
 
-- **An XAI Model for Semiconductor Manufacturing Processes based on Confidence Interval Visualization for the Impact of Process Parameters**
+- **An XAI Model for Semiconductor Manufacturing Processes based on Confidence Interval Visualization for the Impact of Process Parameters** *(First Author)*  
   *KISM 2023 (Korean International Semiconductor Conference on Manufacturing Technology)*, 2023.11  
   - Explainable AI for semiconductor manufacturing process data
   - Visualized uncertainty and confidence intervals for process parameter impact
 
-- **An XAI Model for Semiconductor Manufacturing Processes with Exploring Process Parameter Interactions based on Uncertainty**
+- **An XAI Model for Semiconductor Manufacturing Processes with Exploring Process Parameter Interactions based on Uncertainty** *(Co-author)* 
 - 
   *KISM 2023 (Korean International Semiconductor Conference on Manufacturing Technology)*, 2023.11  
   - Explainable AI for semiconductor manufacturing process data
   - Analyzed interaction effects between process parameters under uncertainty
 
-- **확률론적 게이트를 통한 일반화 가법 모형의 안정적인 희소성 제약**  
+- **확률론적 게이트를 통한 일반화 가법 모형의 안정적인 희소성 제약**  *(First Author)*  
   *KCC 2024 (Korean Computer Congress)*, 2024.06  
   - Explainable AI for tabular data
   - Proposed stable sparsity constraints for generalized additive models
 
-- **Ensemble for Robust Variable Selection in Sparse Generalized Additive Model**  
+- **Ensemble for Robust Variable Selection in Sparse Generalized Additive Model**  *(First Author)*  
   *Master’s Thesis*, 2024  
   - Robust variable selection and interpretability for tabular models
 
