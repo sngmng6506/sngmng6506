@@ -95,7 +95,7 @@ Learning Backend Development now.
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 - **Languages**: Python, JavaScript
 - **Backend**: FastAPI, Node.js, NestJS
 - **ML/DL**: PyTorch
