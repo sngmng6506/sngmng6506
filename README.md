@@ -10,8 +10,17 @@ Learning Backend Development now.
 - AI Engineer at **Hanwha Momentum** (2024.12 ~ )
 - Working on industrial AI systems for manufacturing
 
+
 ---
 ## 🏫 Experience
+
+
+### 🏢 Hanwha Momentum
+**AI Engineer** (2024.12 ~ )  
+- Developing AI models and services for manufacturing
+- Designing anomaly detection pipelines for industrial sensor data
+- Exploring LLM-based systems for production environments
+
 
 ### 🎓 The Catholic University of Korea – Department of Physics
 **B.S. in Physics** (2016 – 2023)
@@ -39,6 +48,7 @@ Learning Backend Development now.
 - Tabular & Time-series Data
 - Industrial / Manufacturing AI
 
+
 ---
 
 ## 📄 Publications
@@ -64,7 +74,7 @@ Learning Backend Development now.
 
 ---
 
-## 🏭 Industry-Academic & National Research Projects
+## 🏭 Projects in Graduate School
 
 - **[National Security Research Institute (NSR)]**  
   *Correlation Study on Training Data Information Volume and Detection Accuracy of AI-based Control System Anomaly Detection*  
@@ -83,13 +93,6 @@ Learning Backend Development now.
   - Improved reliability and transparency through XAI techniques
 
 
-
-
-### 🏢 Hanwha Momentum
-**AI Engineer** (2024.12 ~ )  
-- Developing AI models and services for manufacturing
-
-
 ---
 
 ### 🛠 Tech Stack
@@ -100,8 +103,8 @@ Learning Backend Development now.
 ---
 
 ## 📚 Study & Community
-- Organizer of an AI study group  
-- Weekly study sessions (Every Saturday)  
+- Organizer of an AI study group (weekly, every Saturday)
+- Leading discussions on AI systems, ML models, and backend integration
 - Study group: https://www.somoim.co.kr/eb377bbe-e53f-46c2-a0a3-89b7dd98667c1
 
 
