@@ -29,11 +29,10 @@ Learning Backend Development now.
 **Graduate Projects**
 - **Anomaly Detection on Industrial Time-series**
   - Developed anomaly detection models for multivariate sensor data
-  - Emphasized scalability and deployment-ready pipelines
 
 - **Tabular Data Modeling & Interpretation**
   - Implemented tree-based and neural models for tabular data
-  - Applied XAI techniques such as feature importance and attribution methods
+  - Applied XAI techniques such as feature importance
 
 **Research Focus**
 - Explainable AI (XAI)
