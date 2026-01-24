@@ -27,7 +27,8 @@ Learning Backend Development now.
 - Studied fundamental physics, mathematics
 
 
-### 🎓 Hanyang University – AI Graduate School
+### 🎓 [Hanyang University – AI Graduate School](https://dilab.hanyang.ac.kr/)
+https://dilab.hanyang.ac.kr/
 **M.S. in Artificial Intelligence** (2023.03 – 2025.02)
 
 **Master’s Thesis**
@@ -53,12 +54,13 @@ Learning Backend Development now.
 
 ## 📄 Publications
 
-- **An XAI Model for Semiconductor Manufacturing Processes based on Confidence Interval Visualization for the Impact of Process Parameters**  
+- **An XAI Model for Semiconductor Manufacturing Processes based on Confidence Interval Visualization for the Impact of Process Parameters**
   *KISM 2023 (Korean International Semiconductor Conference on Manufacturing Technology)*, 2023.11  
   - Explainable AI for semiconductor manufacturing process data
   - Visualized uncertainty and confidence intervals for process parameter impact
 
-- **An XAI Model for Semiconductor Manufacturing Processes with Exploring Process Parameter Interactions based on Uncertainty**  
+- **An XAI Model for Semiconductor Manufacturing Processes with Exploring Process Parameter Interactions based on Uncertainty**
+- 
   *KISM 2023 (Korean International Semiconductor Conference on Manufacturing Technology)*, 2023.11  
   - Explainable AI for semiconductor manufacturing process data
   - Analyzed interaction effects between process parameters under uncertainty
