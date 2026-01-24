@@ -76,7 +76,7 @@ Learning Backend Development now.
   - Proposed stable sparsity constraints for generalized additive models
 
 - **Ensemble for Robust Variable Selection in Sparse Generalized Additive Model**  *(First Author)*  
-  *Master’s Thesis*, 2024  
+  *Master’s Thesis*, 2025
   - Robust variable selection and interpretability for tabular models
 
 ---
