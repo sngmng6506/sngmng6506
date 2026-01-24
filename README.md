@@ -18,7 +18,7 @@ Learning Backend Development now.
 ### 🏢 Hanwha Momentum
 **AI Engineer** (2024.12 ~ )  
 - Developing AI models and services for manufacturing
-- Designing anomaly detection pipelines for industrial sensor data
+- Designing anomaly detection pipelines for industrial sensor data/ industrial image data 
 - Exploring LLM-based systems for production environments
 
 
