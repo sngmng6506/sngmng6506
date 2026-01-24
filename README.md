@@ -66,7 +66,6 @@ Learning Backend Development now.
   - Visualized uncertainty and confidence intervals for process parameter impact
 
 - **An XAI Model for Semiconductor Manufacturing Processes with Exploring Process Parameter Interactions based on Uncertainty** *(Co-author)* 
-- 
   *KISM 2023 (Korean International Semiconductor Conference on Manufacturing Technology)*, 2023.11  
   - Explainable AI for semiconductor manufacturing process data
   - Analyzed interaction effects between process parameters under uncertainty
