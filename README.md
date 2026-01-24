@@ -50,7 +50,7 @@ https://dilab.hanyang.ac.kr/
 **B.S. in Physics** (2016 – 2023)
 - Studied fundamental physics, mathematics
 **Undergraduate Research Experience**
-- Undergraduate researcher at [**Network & Systems Lab (NSLab)** (2023)] ( https://nslab-cuk.github.io/lecture/)
+- Undergraduate researcher at [**Network & Systems Lab (NSLab)** (2023)]( https://nslab-cuk.github.io/)
 - Participated in research-oriented study sessions on systems, networking, and data analysis
 - Lecture resources and materials: 
 
