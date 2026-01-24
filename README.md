@@ -47,11 +47,13 @@ Learning Backend Development now.
 
 ### 🎓 The Catholic University of Korea – Department of Physics
 **B.S. in Physics** (2016 – 2023)
-- Studied fundamental physics, mathematics
+- Studied fundamental physics and mathematics
+
 **Undergraduate Research Experience**
-- Undergraduate researcher at [**Network & Systems Lab (NSLab)** (2023)]( https://nslab-cuk.github.io/)
-- Participated in research-oriented study sessions on systems, networking, and data analysis
-- Lecture resources and materials: 
+- Undergraduate researcher at [**Network & Systems Lab (NSLab)**](https://nslab-cuk.github.io/) (2023)
+- Participated in research on medical knowledge graph representation learning
+- Contributed to the paper:  
+  **“Companion Animal Disease Diagnostics Based on Literal-Aware Medical Knowledge Graph Representation Learning”**
 
 
 ---
