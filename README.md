@@ -88,7 +88,6 @@ Learning Backend Development now.
 ### 🏢 Hanwha Momentum
 **AI Engineer** (2024.12 ~ )  
 - Developing AI models and services for manufacturing
-- Interested in anomaly detection and production LLM systems
 
 
 ---
