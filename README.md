@@ -43,7 +43,7 @@ often referred to as the Rashomon effect.
 - Undergraduate researcher at [Network & Systems Lab (NSLab)](https://nslab-cuk.github.io/) (2023)
 - Participated in research on medical knowledge graph representation learning
 - Contributed to the paper:  
-  [**“Companion Animal Disease Diagnostics Based on Literal-Aware Medical Knowledge Graph Representation Learning”**](https://arxiv.org/abs/2309.03219) *(Co-author)*
+  [“Companion Animal Disease Diagnostics Based on Literal-Aware Medical Knowledge Graph Representation Learning”](https://arxiv.org/abs/2309.03219) *(Co-author)*
 
 
 ---
