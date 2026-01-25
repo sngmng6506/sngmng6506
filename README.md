@@ -72,19 +72,19 @@ often referred to as the Rashomon effect.
 
 ## 🏭 Projects in Graduate School
 
-- **[National Security Research Institute (NSR)]**  
+- **[National Security Research Institute (NSR)]**  — Research Lead  
   *Correlation Study on Training Data Information Volume and Detection Accuracy of AI-based Control System Anomaly Detection*  
   *(2023.04 – 2023.09)*  
   - Conducted correlation analysis between training data information content and anomaly detection performance
   - Evaluated robustness and reliability of AI models for control systems
 
 - **[Samsung Electronics] Explainable AI for Semiconductor Process Data Analysis**  
-  *(2023.10 – 2024.04)*  
+  *(2023.10 – 2024.04)*  — Research Engineer  
   - Developed explainable AI models for semiconductor manufacturing process data
   - Focused on uncertainty-aware interpretation of process parameters
 
 - **[Hyundai Motor Company] Explainable AI for Vehicle Component Load Prediction & Prognostics**
-  *(2024.03 – 2024.11)*
+  *(2024.03 – 2024.11)* — Research Lead  
   - Built interpretable AI models for vehicle component load prediction and prognostics  
   - Improved reliability and transparency through XAI techniques
 
