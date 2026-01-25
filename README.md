@@ -36,7 +36,7 @@ often referred to as the Rashomon effect.
 
 
 ### 🎓 The Catholic University of Korea – Department of Physics
-**B.S. in Physics** (2016 – 2023)
+**B.S. in Physics** (2016.03 – 2023.02)
 - Studied fundamental physics and mathematics
 
 **Undergraduate Research Experience**
