@@ -94,7 +94,7 @@ Learning Backend Development now.
   - Developed explainable AI models for semiconductor manufacturing process data
   - Focused on uncertainty-aware interpretation of process parameters
 
-**[Hyundai Motor Company] Explainable AI for Vehicle Component Load Prediction & Prognostics**
+- **[Hyundai Motor Company] Explainable AI for Vehicle Component Load Prediction & Prognostics**
 *(2024.03 – 2024.11)*
 
 - Built interpretable AI models for vehicle component load prediction and prognostics  
