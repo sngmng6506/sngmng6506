@@ -28,10 +28,11 @@ Learning Backend Development now.
 
 **Research Focus**
 - Explainable AI (XAI)
+- Tabular and time-series data
 - Model multiplicity and its implications for explainability
   * I study why multiple high-performing models can lead to different explanations,
 often referred to as the Rashomon effect. 
-- Tabular and time-series data
+
 
 
 ### 🎓 The Catholic University of Korea – Department of Physics
