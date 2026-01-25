@@ -37,6 +37,7 @@ often referred to as the Rashomon effect.
 
 ### 🎓 The Catholic University of Korea – Department of Physics
 **B.S. in Physics** (2016.03 – 2023.02)
+- Major GPA: 4.14/4.5
 - Studied fundamental physics and mathematics
 
 **Undergraduate Research Experience**
