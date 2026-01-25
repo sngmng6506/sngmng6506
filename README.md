@@ -27,7 +27,7 @@ Learning Backend Development now.
 **Affiliation:** [DI Lab (Data Intelligence Lab)](https://dilab.hanyang.ac.kr/)
 
 **Master’s Thesis**
-- *Explainable AI for Tabular Data*
+- **Explainable AI for Tabular Data**
   - Designed interpretable models for structured data
   - Analyzed feature attribution on manufacturing datasets
 
