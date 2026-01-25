@@ -29,7 +29,7 @@ Learning Backend Development now.
 **Master’s Thesis**
 - *Explainable AI for Tabular Data*
   - Designed interpretable models for structured data
-  - Analyzed feature attribution and model behavior on real-world datasets
+  - Analyzed feature attribution on manufacturing datasets
 
 **Projects**
 - **Anomaly Detection on Industrial Time-series**
