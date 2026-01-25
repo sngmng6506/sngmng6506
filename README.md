@@ -16,10 +16,9 @@ Learning LLM system & Backend Development now.
 
 ### 🏢 Hanwha Momentum
 **AI Engineer** (2024.12 ~ )  
-- Developing AI models and services for manufacturing
-- Designing anomaly detection pipelines for industrial sensor data/ industrial image data 
-- Exploring LLM-based systems for production environments
-
+- Developing AI services for manufacturing
+- Designing anomaly detection pipelines for industrial sensor or image data
+- Implementing LLM-based systems for production environments
 
 
 ### 🎓 Hanyang University – AI Graduate School  
