@@ -8,7 +8,6 @@ Learning Backend Development now.
 
 ## 🧭 Now
 - AI Engineer at **Hanwha Momentum** (2024.12 ~ )
-- Working on industrial AI systems for manufacturing
 
 
 ---
