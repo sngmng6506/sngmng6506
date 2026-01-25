@@ -51,13 +51,13 @@ often referred to as the Rashomon effect.
 
 - **An XAI Model for Semiconductor Manufacturing Processes based on Confidence Interval Visualization for the Impact of Process Parameters** *(First Author)*  
   *KISM 2023 (Korean International Semiconductor Conference on Manufacturing Technology)*, 2023.11  
-  - Explainable AI for semiconductor manufacturing process data
-  - Visualized uncertainty and confidence intervals for process parameter impact
+  - Applied Explainable AI (XAI) to analyze semiconductor manufacturing process data.
+  - Visualized confidence intervals to represent the reliability of process parameter impacts.
 
-- **An XAI Model for Semiconductor Manufacturing Processes with Exploring Process Parameter Interactions based on Uncertainty** *(Co-author)* 
+- **An XAI Model for Semiconductor Manufacturing Processes with Exploring Process Parameter Interactions based on Uncertainty** *(Co-author)*  
   *KISM 2023 (Korean International Semiconductor Conference on Manufacturing Technology)*, 2023.11  
-  - Explainable AI for semiconductor manufacturing process data
-  - Analyzed interaction effects between process parameters under uncertainty
+  - Explored interactions between process parameters using Explainable AI (XAI).
+  - Analyzed parameter interaction effects based on uncertainty quantification in manufacturing data.
 
 - [**확률적 게이트를 통한 일반화 가법 모형의 안정적인 희소성 제약**](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862086) (Stable Sparsity Constraint in Generalized Additive Models via Stochastic Gate) *(First Author)*  
   *KCC 2024 (Korean Computer Congress)*, 2024.06  
