@@ -30,7 +30,7 @@ Learning Backend Development now.
 - Explainable AI (XAI)
 - Model multiplicity and its implications for explainability
   * I study why multiple high-performing models can lead to different explanations,
-often referred to as the Rashomon effect. * 
+often referred to as the Rashomon effect. 
 - Tabular and time-series data
 
 
