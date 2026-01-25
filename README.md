@@ -64,7 +64,7 @@ often referred to as the Rashomon effect.
   - Explainable AI for tabular data
   - Proposed stable sparsity constraints for generalized additive models
 
-- **희소한 일반화 가법 모형에서 신뢰할 수 있는 특징 선택을 위한 안정성 순위 기반 앙상블 기법** (Ensemble for Robust Variable Selection in Sparse Generalized Additive Model)  *(First Author)*  
+- [**희소한 일반화 가법 모형에서 신뢰할 수 있는 특징 선택을 위한 안정성 순위 기반 앙상블 기법**](https://lib.hanyang.ac.kr/search/i-discovery/23237461?type=biblios-list-view) (A Stability Rank-Based Ensemble Approach towards Reliable Feature Selection in Sparse Generalized Additive Models)  *(First Author)*  
   *Master’s Thesis*, 2025
   - Robust variable selection and interpretability for tabular models
 
