@@ -28,8 +28,8 @@ Learning Backend Development now.
 
 **Research Focus**
 - Explainable AI (XAI)
-- Tabular & Time-series Data
-- Industrial / Manufacturing AI
+- Model multiplicity and its implications for explainability
+- Tabular and time-series data
 
 
 ### 🎓 The Catholic University of Korea – Department of Physics
