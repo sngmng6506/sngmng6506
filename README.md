@@ -59,7 +59,7 @@ often referred to as the Rashomon effect.
   - Explainable AI for semiconductor manufacturing process data
   - Analyzed interaction effects between process parameters under uncertainty
 
-- [**확률론적 게이트를 통한 일반화 가법 모형의 안정적인 희소성 제약**](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862086) (Stable Sparsity Constraint in Generalized Additive Models via Stochastic Gate) *(First Author)*  
+- [**확률적 게이트를 통한 일반화 가법 모형의 안정적인 희소성 제약**](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862086) (Stable Sparsity Constraint in Generalized Additive Models via Stochastic Gate) *(First Author)*  
   *KCC 2024 (Korean Computer Congress)*, 2024.06  
   - Explainable AI for tabular data
   - Proposed stable sparsity constraints for generalized additive models
