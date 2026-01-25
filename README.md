@@ -26,19 +26,6 @@ Learning Backend Development now.
 **M.S. in Artificial Intelligence** (2023.03 – 2025.02)  
 **Affiliation:** [DI Lab (Data Intelligence Lab)](https://dilab.hanyang.ac.kr/)
 
-**Master’s Thesis**
-- **Explainable AI for Tabular Data**
-  - Designed interpretable models for structured data
-  - Analyzed feature attribution on manufacturing datasets
-
-**Projects**
-- **Anomaly Detection on Industrial Time-series**
-  - Developed anomaly detection models for multivariate sensor data
-
-- **Tabular Data Modeling & Interpretation**
-  - Implemented tree-based and neural models for tabular data
-  - Applied XAI techniques such as feature importance
-
 **Research Focus**
 - Explainable AI (XAI)
 - Tabular & Time-series Data
