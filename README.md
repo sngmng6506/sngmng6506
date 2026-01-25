@@ -101,6 +101,7 @@ Learning Backend Development now.
 - Leading discussions on AI systems, ML models, and backend integration
 - Study group: https://www.somoim.co.kr/eb377bbe-e53f-46c2-a0a3-89b7dd98667c1
 
+---
 
-### 📫 Contact
-📫 sngmng6506@gmail.com 
+## 📫 Contact
+- 📫 sngmng6506@gmail.com 
