@@ -97,8 +97,7 @@ Learning Backend Development now.
 ---
 
 ## 📚 Study & Community
-- Organizer of an AI study group (weekly, every Saturday)
-- Leading discussions on AI systems, ML models, and backend integration
+- Organizer of an IT & AI study group (weekly, every Saturday) since 2026.1
 - Study group: https://www.somoim.co.kr/eb377bbe-e53f-46c2-a0a3-89b7dd98667c1
 
 ---
