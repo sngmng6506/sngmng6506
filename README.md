@@ -103,7 +103,7 @@ often referred to as the Rashomon effect.
 
 ## 📚 Study & Community
 - Organizer of an IT & AI study group (weekly, every Saturday) since 2026.1
-- Study group: https://www.somoim.co.kr/eb377bbe-e53f-46c2-a0a3-89b7dd98667c1
+- Study group: [Link](https://www.somoim.co.kr/eb377bbe-e53f-46c2-a0a3-89b7dd98667c1)
 
 ---
 
