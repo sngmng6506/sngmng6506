@@ -22,8 +22,9 @@ Learning Backend Development now.
 
 
 
-### 🎓 [Hanyang University – AI Graduate School](https://dilab.hanyang.ac.kr/)
-**M.S. in Artificial Intelligence** (2023.03 – 2025.02)
+### 🎓 Hanyang University – AI Graduate School  
+**M.S. in Artificial Intelligence** (2023.03 – 2025.02)  
+**Affiliation:** [DI Lab (Data Intelligence Lab)](https://dilab.hanyang.ac.kr/)
 
 **Master’s Thesis**
 - *Explainable AI for Tabular Data*
