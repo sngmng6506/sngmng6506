@@ -60,12 +60,12 @@ often referred to as the Rashomon effect.
   - Explored interactions between process parameters using Explainable AI (XAI).
   - Analyzed parameter interaction effects based on uncertainty quantification in manufacturing data.
 
-- [**확률적 게이트를 통한 일반화 가법 모형의 안정적인 희소성 제약**](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862086) (Stable Sparsity Constraint in Generalized Additive Models via Stochastic Gate) *(First Author)*  
+- [확률적 게이트를 통한 일반화 가법 모형의 안정적인 희소성 제약](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862086) (Stable Sparsity Constraint in Generalized Additive Models via Stochastic Gate) *(First Author)*  
   *KCC 2024 (Korean Computer Congress)*, 2024.06  
   - Explainable AI for tabular data
   - Proposed stable sparsity constraints for generalized additive models
 
-- [**희소한 일반화 가법 모형에서 신뢰할 수 있는 특징 선택을 위한 안정성 순위 기반 앙상블 기법**](https://lib.hanyang.ac.kr/search/i-discovery/23237461?type=biblios-list-view) (A Stability Rank-Based Ensemble Approach towards Reliable Feature Selection in Sparse Generalized Additive Models)  *(First Author)*  
+- [희소한 일반화 가법 모형에서 신뢰할 수 있는 특징 선택을 위한 안정성 순위 기반 앙상블 기법](https://lib.hanyang.ac.kr/search/i-discovery/23237461?type=biblios-list-view) (A Stability Rank-Based Ensemble Approach towards Reliable Feature Selection in Sparse Generalized Additive Models)  *(First Author)*  
   *Master’s Thesis*, 2025
   - Robust variable selection and interpretability for tabular models
 
