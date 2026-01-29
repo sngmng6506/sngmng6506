@@ -96,7 +96,7 @@ often referred to as the Rashomon effect.
 ---
 
 ## 🛠 Tech Stack
-- **Languages**: Python, JavaScript
+- **Languages**: Python, JavaScript, C++
 - **Backend**: FastAPI, Node.js, NestJS
 - **ML/DL**: PyTorch
 
