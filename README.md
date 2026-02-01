@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Sangmyeong Lee 
 
 AI Engineer in Manufacturing  
-Learning LLM system & Backend Development now. 
+Currently learning LLM systems and production-level software engineering.
 
 - "Code"     → Here               
 
