@@ -4,11 +4,11 @@
 AI Engineer in Manufacturing  
 Learning LLM system & Backend Development now. 
 
-"Code"     → Here               
+- "Code"     → Here               
 
-"Process"  → https://lifes-ng.tistory.com/
+- "Process"  → https://lifes-ng.tistory.com/
 
-"Results"  → https://velog.io/@sngmng6506/posts
+- "Results"  → https://velog.io/@sngmng6506/posts
 
 
 ---
