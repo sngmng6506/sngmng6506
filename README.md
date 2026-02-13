@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Sangmyeong Lee 
+# 👋 Hi, I'm Sangmyeong Lee [LinkedIn](https://www.linkedin.com/in/%EC%83%81%EB%AA%85-%EC%9D%B4-a6a202268/)
 
 AI Engineer
 Currently learning LLM systems and production-level software engineering.
@@ -10,7 +10,6 @@ Currently learning LLM systems and production-level software engineering.
 
 - "Engineering Notes"  → https://velog.io/@sngmng6506/posts
 
-- "LinkedIn" → https://www.linkedin.com/in/%EC%83%81%EB%AA%85-%EC%9D%B4-a6a202268/
 
 
 ---
