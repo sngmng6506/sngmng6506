@@ -6,9 +6,9 @@ Currently learning LLM systems and production-level software engineering.
 
 - "Code"     → Here               
 
-- "Process"  → https://lifes-ng.tistory.com/
+- "Research / Thinking"  → https://lifes-ng.tistory.com/
 
-- "Results"  → https://velog.io/@sngmng6506/posts
+- "Engineering Notes"  → https://velog.io/@sngmng6506/posts
 
 
 ---
