@@ -25,7 +25,8 @@ Currently learning LLM systems and production-level software engineering.
 **AI Engineer** (2024.12 ~ )  
 - Developing AI services for manufacturing
 - Designing anomaly detection pipelines for industrial sensor or image data
-- Conducting applied PoCs on vision-based defect detection and LLM-based chatbot functionalities
+- Implementing and evaluating vision-based defect detection and LLM-based chatbot systems through applied PoCs
+
 
 
 ### 🎓 Hanyang University – AI Graduate School  
