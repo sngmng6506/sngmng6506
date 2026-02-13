@@ -9,7 +9,7 @@ Currently learning LLM systems and production-level software engineering.
 - "Research Notes"  → https://lifes-ng.tistory.com/
 
 - "Engineering Notes"  → https://velog.io/@sngmng6506/posts
-- 
+  
 - [LinkedIn](https://www.linkedin.com/in/%EC%83%81%EB%AA%85-%EC%9D%B4-a6a202268/)
 
 
