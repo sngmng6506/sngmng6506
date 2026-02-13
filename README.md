@@ -55,6 +55,19 @@ often referred to as the Rashomon effect.
 
 ---
 
+## 🛠 Applied AI Systems
+
+- **Vision-based Defect Detection PoC** *(2025)*
+  - Implemented a vision-based defect detection proof-of-concept under limited data and noisy labels
+  - Focused on model training, evaluation
+
+- **LLM-based Chatbot Functions** *(Industry–Academia Project)* *(2025)*
+  - Implemented and compared RAG, TAG, and fine-tuning approaches
+  - Analyzed trade-offs of different LLM integration methods from a system perspective
+
+
+---
+
 ## 🏭 Projects in Graduate School
 
 - **National Security Research Institute (NSR)** — *Research Lead*  
