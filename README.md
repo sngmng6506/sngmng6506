@@ -55,6 +55,30 @@ often referred to as the Rashomon effect.
 
 ---
 
+## 🏭 Projects in Graduate School
+
+- **National Security Research Institute (NSR)** — *Research Lead*  
+  **Correlation Study on Training Data Information Volume and Detection Accuracy of Timeseries Anomaly Detection**  
+  *(2023.04 – 2023.09)*  
+  - Conducted correlation analysis between training data information content and anomaly detection performance  
+  - Evaluated robustness and reliability of AI models for timeseries anomaly detection  
+
+- **Samsung Electronics** — *Research Engineer*  
+  **Explainable AI for Semiconductor Process Data Analysis**  
+  *(2023.10 – 2024.04)*  
+  - Developed explainable AI models for semiconductor manufacturing process data  
+  - Focused on uncertainty-aware interpretation of process parameters  
+
+- **Hyundai Motor Company** — *Research Lead*  
+  **Explainable AI for Vehicle Load Prediction & Prognostics**  
+  *(2024.03 – 2024.11)*  
+  - Built interpretable AI models pieplines for vehicle load prediction and prognostics  
+  - Improved reliability and transparency through XAI techniques  
+
+
+
+---
+
 ## 📄 Publications
 
 - **An XAI Model for Semiconductor Manufacturing Processes based on Confidence Interval Visualization for the Impact of Process Parameters** *(First Author)*  
@@ -75,28 +99,6 @@ often referred to as the Rashomon effect.
 - [희소한 일반화 가법 모형에서 신뢰할 수 있는 특징 선택을 위한 안정성 순위 기반 앙상블 기법](https://lib.hanyang.ac.kr/search/i-discovery/23237461?type=biblios-list-view) (A Stability Rank-Based Ensemble Approach towards Reliable Feature Selection in Sparse Generalized Additive Models)  *(First Author)*  
   *Master’s Thesis*, 2025
   - Robust variable selection and interpretability for tabular models
-
----
-
-## 🏭 Projects in Graduate School
-
-- **National Security Research Institute (NSR)** — *Research Lead*  
-  **Correlation Study on Training Data Information Volume and Detection Accuracy of Timeseries Anomaly Detection**  
-  *(2023.04 – 2023.09)*  
-  - Conducted correlation analysis between training data information content and anomaly detection performance  
-  - Evaluated robustness and reliability of AI models for timeseries anomaly detection  
-
-- **Samsung Electronics** — *Research Engineer*  
-  **Explainable AI for Semiconductor Process Data Analysis**  
-  *(2023.10 – 2024.04)*  
-  - Developed explainable AI models for semiconductor manufacturing process data  
-  - Focused on uncertainty-aware interpretation of process parameters  
-
-- **Hyundai Motor Company** — *Research Lead*  
-  **Explainable AI for Vehicle Load Prediction & Prognostics**  
-  *(2024.03 – 2024.11)*  
-  - Built interpretable AI models pieplines for vehicle load prediction and prognostics  
-  - Improved reliability and transparency through XAI techniques  
 
 
 
