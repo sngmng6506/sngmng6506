@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Sangmyeong Lee [LinkedIn](https://www.linkedin.com/in/%EC%83%81%EB%AA%85-%EC%9D%B4-a6a202268/)
+# 👋 Hi, I'm Sangmyeong Lee [](https://www.linkedin.com/in/%EC%83%81%EB%AA%85-%EC%9D%B4-a6a202268/)
 
 AI Engineer
 Currently learning LLM systems and production-level software engineering.
