@@ -67,7 +67,7 @@ often referred to as the Rashomon effect.
   - Experimented with YOLO- and DETR-based models to compare detection accuracy and practical trade-offs
 
 - **LLM-based Chatbot Functions** *(Industry–Academia Project)* *(2025)*
-  - Implemented and compared RAG, TAG, and fine-tuning approaches
+  - Implemented RAG, TAG, and fine-tuning approaches
   - Analyzed trade-offs of different LLM integration methods from a system perspective
 
 
