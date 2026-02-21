@@ -62,7 +62,6 @@ often referred to as the Rashomon effect.
 ## 🛠 Applied AI Systems
 
 - **Vision-based Defect Detection PoC** *(2025)*
-  - Implemented a vision-based defect detection proof-of-concept under limited data and noisy labels
   - Focused on model training, evaluation
   - Experimented with YOLO- and DETR-based models to compare detection accuracy and practical trade-offs
 
