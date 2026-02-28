@@ -59,7 +59,7 @@ often referred to as the Rashomon effect.
 
 ---
 
-## 🛠 Industry Projects
+## 🏢 Industry Projects
 
 - **Vision-based Defect Detection PoC** *(2025)*
   - Focused on model training, evaluation
