@@ -129,7 +129,7 @@ often referred to as the Rashomon effect.
 - **Backend**: FastAPI
 - **ML/DL**: PyTorch
 
-**Familiar / Experienced**
+**Experienced**
 - **Languages**: JavaScript, C++
 - **Backend**: Node.js, NestJS
 
