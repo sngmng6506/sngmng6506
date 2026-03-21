@@ -121,10 +121,13 @@ often referred to as the Rashomon effect.
 
 ---
 
-## 🛠 Tech Stack
-- **Languages**: Python, JavaScript, C++
-- **Backend**: FastAPI, Node.js, NestJS
-- **ML/DL**: PyTorch
+### 🛠 Tech Stack
+
+**Main Stack** ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+**Other Experiences** JavaScript, C++, Node.js, NestJS
 
 ---
 
