@@ -136,10 +136,10 @@ often referred to as the Rashomon effect.
 ---
 
 ## 📚 Study & Community
-Organizer of an IT & AI study group (weekly, every Saturday) since 2026.1
+Organizer of an IT & AI study group (weekly, every Saturday) since 2026.01
 - Study group: [Link](https://www.somoim.co.kr/eb377bbe-e53f-46c2-a0a3-89b7dd98667c1)
 
-Notes on Reading and Thoughts
+Notes on Reading and Thoughts since 2026.04
 - Brunch: [Link](https://brunch.co.kr/@3e4a6e9990264fb)
 
 ---
