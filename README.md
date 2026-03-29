@@ -140,7 +140,7 @@ Organizer of an IT & AI study group (weekly, every Saturday) since 2026.1
 - Study group: [Link](https://www.somoim.co.kr/eb377bbe-e53f-46c2-a0a3-89b7dd98667c1)
 
 Notes on Reading and Thoughts
-- Brunch : [Link](https://brunch.co.kr/@3e4a6e9990264fb)
+- Brunch: [Link](https://brunch.co.kr/@3e4a6e9990264fb)
 
 ---
 
