@@ -1,36 +1,30 @@
-
 # 👋 Hi, I'm Sangmyeong Lee 
 
 AI Engineer,
 Currently learning LLM systems and production-level software engineering.
 
 - [LinkedIn](https://www.linkedin.com/in/%EC%83%81%EB%AA%85-%EC%9D%B4-a6a202268/)
-
-- "Code"     → Here               
-
-- "Research Notes"  → https://lifes-ng.tistory.com/
-
-- "Engineering Notes"  → https://velog.io/@sngmng6506/posts
-  
-
+- "Code" → Here
+- "Research Notes" → https://lifes-ng.tistory.com/
+- "Engineering Notes" → https://velog.io/@sngmng6506/posts
 
 ---
 
 ## 🧭 Now
 - AI Engineer at **Hanwha Momentum** (2024.12 ~ )
 
-
 ---
+
 ## 🏫 Experience
 
+<details>
+<summary>Click to expand</summary>
 
 ### 🏢 Hanwha Momentum
 **AI Engineer** (2024.12 ~ )  
 - Developing AI services for manufacturing
 - Designing anomaly detection pipelines for industrial sensor or image data
 - Implementing and evaluating vision-based defect detection and LLM-based chatbot systems through applied PoCs
-
-
 
 ### 🎓 Hanyang University – AI Graduate School  
 **M.S. in Artificial Intelligence** (2023.03 – 2025.02)  
@@ -40,10 +34,7 @@ Currently learning LLM systems and production-level software engineering.
 - Explainable AI (XAI)
 - Tabular and time-series data
 - Model multiplicity and its implications for explainability
-  * I study why multiple high-performing models can lead to different explanations,
-often referred to as the Rashomon effect. 
-
-
+  * I study why multiple high-performing models can lead to different explanations, often referred to as the Rashomon effect.
 
 ### 🎓 The Catholic University of Korea – Department of Physics
 **B.S. in Physics** (2016.03 – 2023.02)
@@ -54,12 +45,16 @@ often referred to as the Rashomon effect.
 - Undergraduate researcher at [Network & Systems Lab (NSLab)](https://nslab-cuk.github.io/) (2022)
 - Participated in research on medical knowledge graph representation learning
 - Contributed to the paper:  
-  [“Companion Animal Disease Diagnostics Based on Literal-Aware Medical Knowledge Graph Representation Learning”](https://arxiv.org/abs/2309.03219) *(Co-author)*
+  ["Companion Animal Disease Diagnostics Based on Literal-Aware Medical Knowledge Graph Representation Learning"](https://arxiv.org/abs/2309.03219) *(Co-author)*
 
+</details>
 
 ---
 
 ## 🏢 Industry Projects
+
+<details>
+<summary>Click to expand</summary>
 
 - **Vision-based Defect Detection PoC** *(2025)*
   - Focused on model training, evaluation
@@ -69,10 +64,14 @@ often referred to as the Rashomon effect.
   - Implemented RAG, TAG, and fine-tuning approaches
   - Analyzed trade-offs of different LLM integration methods from a system perspective
 
+</details>
 
 ---
 
-## 🏭 Projects in Graduate School
+## 🏭 Graduate School Projects
+
+<details>
+<summary>Click to expand</summary>
 
 - **National Security Research Institute (NSR)** — *Research Lead*  
   **Correlation Study on Training Data Information Volume and Detection Accuracy of Timeseries Anomaly Detection**  
@@ -89,14 +88,17 @@ often referred to as the Rashomon effect.
 - **Hyundai Motor Company** — *Research Lead*  
   **Explainable AI for Vehicle Load Prediction & Prognostics**  
   *(2024.03 – 2024.11)*  
-  - Built interpretable AI models pieplines for vehicle load prediction and prognostics  
+  - Built interpretable AI model pipelines for vehicle load prediction and prognostics  
   - Improved reliability and transparency through XAI techniques  
 
-
+</details>
 
 ---
 
 ## 📄 Publications
+
+<details>
+<summary>Click to expand</summary>
 
 - **An XAI Model for Semiconductor Manufacturing Processes based on Confidence Interval Visualization for the Impact of Process Parameters** *(First Author)*  
   *KISM 2023 (Korean International Semiconductor Conference on Manufacturing Technology)*, 2023.11  
@@ -113,16 +115,15 @@ often referred to as the Rashomon effect.
   - Explainable AI for tabular data
   - Proposed stable sparsity constraints for generalized additive models
 
-- [희소한 일반화 가법 모형에서 신뢰할 수 있는 특징 선택을 위한 안정성 순위 기반 앙상블 기법](https://lib.hanyang.ac.kr/search/i-discovery/23237461?type=biblios-list-view) (A Stability Rank-Based Ensemble Approach towards Reliable Feature Selection in Sparse Generalized Additive Models)  *(First Author)*  
-  *Master’s Thesis*, 2025
+- [희소한 일반화 가법 모형에서 신뢰할 수 있는 특징 선택을 위한 안정성 순위 기반 앙상블 기법](https://lib.hanyang.ac.kr/search/i-discovery/23237461?type=biblios-list-view) (A Stability Rank-Based Ensemble Approach towards Reliable Feature Selection in Sparse Generalized Additive Models) *(First Author)*  
+  *Master's Thesis*, 2025  
   - Robust variable selection and interpretability for tabular models
 
-
+</details>
 
 ---
 
-
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
 **Core Stack (Mainly Used)**
 - **Language**: Python
@@ -142,4 +143,4 @@ Organizer of an IT & AI study group (weekly, every Saturday) since 2026.01
 ---
 
 ## 📫 Contact
-- 📫 sngmng6506@gmail.com 
+- 📫 sngmng6506@gmail.com
