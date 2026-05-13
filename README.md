@@ -76,7 +76,7 @@ AI Engineer in manufacturing.
   **Correlation Study on Training Data Information Volume and Detection Accuracy of Timeseries Anomaly Detection**  
   *(2023.04 – 2023.09)*  
   - Conducted correlation analysis between training data information content and anomaly detection performance  
-  - Evaluated robustness and reliability of AI models for timeseries anomaly detection  
+  - Evaluated robustness and reliability of timeseries anomaly detection AI models for timeseries anomaly detection  
 
 - **Samsung Electronics** — *Research Engineer*  
   **Explainable AI for Semiconductor Process Data Analysis**  
