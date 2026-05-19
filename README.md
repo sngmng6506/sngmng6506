@@ -121,7 +121,25 @@ AI Engineer in manufacturing.
 
 </details>
 
+
 ---
+
+## 🏫 Certifications
+
+<details>
+<summary>Click to expand</summary>
+
+### ADsP
+- 25.05.17
+
+### PCCP Lv.2
+- 26.05.14
+
+</details>
+
+---
+
+
 
 ## 🛠 Tech Stack
 
