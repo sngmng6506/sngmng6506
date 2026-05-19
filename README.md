@@ -124,7 +124,7 @@ AI Engineer in manufacturing.
 
 ---
 
-## 🏫 Certifications
+## 🪪 Certifications
 
 <details>
 <summary>Click to expand</summary>
