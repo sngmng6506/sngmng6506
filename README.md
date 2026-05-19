@@ -6,7 +6,7 @@ AI Engineer in manufacturing.
 - "Code" → Here
 - "Research Notes" → https://lifes-ng.tistory.com/
 - "Engineering Notes" → https://velog.io/@sngmng6506/posts
-- "Essay Platform [Preparing]" → https://brunch.co.kr/@3e4a6e9990264fb
+
 
 ---
 
