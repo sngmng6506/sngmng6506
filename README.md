@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Sangmyeong Lee 
 
-AI Engineer in manufacturing.
+1. AI Engineer in manufacturing.
+2. AI-native Builder
 
 - [LinkedIn](https://www.linkedin.com/in/sangmyeong-lee-a6a202268/)
 - "Code" → Here
