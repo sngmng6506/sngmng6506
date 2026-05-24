@@ -65,6 +65,10 @@
   - Implemented RAG, TAG, and fine-tuning approaches
   - Analyzed trade-offs of different LLM integration methods from a system perspective
 
+- **Vision-based Quality Inspection System for Process Equipment** *(2026 – Present)*
+  - Developed a vision-based measurement and inspection system to ensure precision and quality metrics of process equipment.
+  - Implemented real-time visual inspection algorithms to verify dimensional and functional accuracy against quality standards.
+
 </details>
 
 ---
