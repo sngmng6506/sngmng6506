@@ -167,3 +167,7 @@ Organizer of an IT & AI study group (weekly, every Saturday) since 2026.01
 
 ## 📫 Contact
 - 📫 sngmng6506@gmail.com
+
+---
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=your-github-username.your-github-username)
