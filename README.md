@@ -17,7 +17,7 @@
 ---
 
 
-## 🚀 Projects - Now
+## 🚀 Personal Projects In Progress
 
 <details>
 <summary>Click to expand</summary>
