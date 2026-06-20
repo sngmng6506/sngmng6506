@@ -16,6 +16,23 @@
 
 ---
 
+
+## 🚀 Projects
+
+### ☕ Caffeine Flow
+**Real-time café music request platform** — customers request songs via QR code; owners manage playback through a desktop dashboard.  
+
+
+### 🔮 Saju Web
+**Korean fortune-telling service**  
+
+
+### 📚 Café Study Meetup
+**Web platform for creating and joining study groups at local cafés.**  
+
+
+---
+
 ## 🏫 Experience
 
 <details>
