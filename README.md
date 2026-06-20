@@ -17,7 +17,10 @@
 ---
 
 
-## 🚀 Projects
+## 🚀 Projects - Now
+
+<details>
+<summary>Click to expand</summary>
 
 ### ☕ Caffeine Flow
 **Real-time café music request platform** — customers request songs via QR code; owners manage playback through a desktop dashboard.  
@@ -29,6 +32,8 @@
 
 ### 📚 Café Study Meetup
 **Web platform for creating and joining study groups at local cafés.**  
+
+</details>
 
 
 ---
