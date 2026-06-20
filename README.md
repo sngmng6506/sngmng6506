@@ -43,7 +43,7 @@
 <summary>Click to expand</summary>
 
 ### 📈 Stock Peek
-**Stock Checker** — glance at your portfolio without anyone noticing.
+**Stock Checker** — glance at your portfolio
 
 </details>
 
