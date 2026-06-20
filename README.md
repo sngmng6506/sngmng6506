@@ -17,7 +17,7 @@
 ---
 
 
-## 🚀 Personal Projects In Progress
+## 🚀 Personal Projects - In Progress
 
 <details>
 <summary>Click to expand</summary>
@@ -32,6 +32,18 @@
 
 ### 📚 Café Study Meetup
 **Web platform for creating and joining study groups at local cafés.**  
+
+</details>
+
+---
+
+## 🚀 Personal Projects - Completed 
+
+<details>
+<summary>Click to expand</summary>
+
+### 📈 Stock Peek
+**Stock Checker** — glance at your portfolio without anyone noticing.
 
 </details>
 
