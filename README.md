@@ -37,7 +37,7 @@
 
 ---
 
-## 🚀 Personal Projects - Completed 
+## ✅ Personal Projects - Completed 
 
 <details>
 <summary>Click to expand</summary>
