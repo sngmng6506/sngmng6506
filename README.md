@@ -17,7 +17,7 @@
 ---
 
 
-## 🚀 Personal Projects - In Progress
+## 🚀 Side Projects - In Progress
 
 <details>
 <summary>Click to expand</summary>
@@ -37,7 +37,7 @@
 
 ---
 
-## ✅ Personal Projects - Completed 
+## ✅ Side Projects - Completed 
 
 <details>
 <summary>Click to expand</summary>
