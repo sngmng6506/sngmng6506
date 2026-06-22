@@ -21,6 +21,7 @@
 
 <details>
 <summary>Click to expand</summary>
+
  
 **☕ Caffeine Flow (2026.01 ~ )**
 
@@ -42,6 +43,7 @@
 
 <details>
 <summary>Click to expand</summary>
+
 
 **📈 Stock Peek (2026.05 ~ 2026.06)**
 
