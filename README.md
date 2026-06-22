@@ -23,13 +23,13 @@
 <summary>Click to expand</summary>
  
 **☕ Caffeine Flow (2026.01 ~ )**
-Real-time café music request platform — customers request songs via QR code; owners manage playback through a desktop dashboard. 
+- Real-time café music request platform — customers request songs via QR code; owners manage playback through a desktop dashboard. 
 
 **🔮 Saju Web (2026.06 ~ )**
-Korean fortune-telling service
+- Korean fortune-telling service
 
 **📚 Café Study Meetup (2026.06 ~ [On hold] )**
-Web platform for creating and joining study groups at local cafés.
+- Web platform for creating and joining study groups at local cafés.
 
 </details>
 
@@ -41,7 +41,7 @@ Web platform for creating and joining study groups at local cafés.
 <summary>Click to expand</summary>
 
 **📈 Stock Peek (2026.05 ~ 2026.06)**
-Stock Checker — glance at your stock portfolio
+- Stock Checker - glance at your stock portfolio
 
 </details>
 
