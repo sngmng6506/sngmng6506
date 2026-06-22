@@ -43,7 +43,7 @@
 <summary>Click to expand</summary>
 
 ### 📈 Stock Peek
-**Stock Checker** — glance at your portfolio
+**Stock Checker(2026.06)** — glance at your stock portfolio
 
 </details>
 
