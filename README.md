@@ -22,15 +22,15 @@
 <details>
 <summary>Click to expand</summary>
 
-### ☕ Caffeine Flow
+### ☕ Caffeine Flow (2026.01 ~ )
 **Real-time café music request platform** — customers request songs via QR code; owners manage playback through a desktop dashboard.  
 
 
-### 🔮 Saju Web
+### 🔮 Saju Web (2026.06 ~ )
 **Korean fortune-telling service**  
 
 
-### 📚 Café Study Meetup
+### 📚 Café Study Meetup (2026.06 ~ [On hold] )
 **Web platform for creating and joining study groups at local cafés.**  
 
 </details>
