@@ -18,6 +18,8 @@
 
 
 ## 🚀 Side Projects - In Progress
+- I try to treat every side project as a chance to go deep on one technical element on purpose — not feature-maxxing, but making sure each build leaves behind something portfolio-worthy.
+
 
 <details>
 <summary>Click to expand</summary>
@@ -39,8 +41,6 @@
 ---
 
 ## ✅ Side Projects - Completed 
-- I try to treat every side project as a chance to go deep on one technical element on purpose — not feature-maxxing, but making sure each build leaves behind something portfolio-worthy.
-
 
 <details>
 <summary>Click to expand</summary>
