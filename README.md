@@ -21,9 +21,6 @@
 
 <details>
 <summary>Click to expand</summary>
-
-### Philosophy
-I treat every side project as a chance to go deep on one technical element on purpose — not feature-maxxing, but making sure each build leaves behind something portfolio-worthy.
  
 **☕ Caffeine Flow (2026.01 ~ )**
 
@@ -42,14 +39,12 @@ I treat every side project as a chance to go deep on one technical element on pu
 ---
 
 ## ✅ Side Projects - Completed 
+- I treat every side project as a chance to go deep on one technical element on purpose — not feature-maxxing, but making sure each build leaves behind something portfolio-worthy.
+
 
 <details>
 <summary>Click to expand</summary>
-
-### Philosophy
-I treat every side project as a chance to go deep on one technical element on purpose — not feature-maxxing, but making sure each build leaves behind something portfolio-worthy.
-
-
+ 
 **📈 Stock Peek (2026.05 ~ 2026.06)**
 
 - Stock Checker - glance at your stock portfolio
