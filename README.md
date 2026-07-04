@@ -24,7 +24,7 @@
 <details>
 <summary>Click to expand</summary>
  
-**☕ Caffeine Flow (2026.01 ~ )**
+**☕ Caffeine Flow (2026.04 ~ )**
 
 - Real-time café music request platform — customers request songs via QR code; owners manage playback through a desktop dashboard. 
 
