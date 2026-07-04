@@ -28,11 +28,11 @@
 
 - Real-time café music request platform — customers request songs via QR code; owners manage playback through a desktop dashboard. 
 
-**🔮 Saju Web (2026.06 ~ )**
+**🔮 Saju Web (2026.06 ~ [On hold] )**
 
 - Korean fortune-telling service
 
-**📚 Café Study Meetup (2026.06 ~ [On hold] )**
+**📚 Café Study Meetup (2026.06  )**
 
 - Web platform for creating and joining study groups at local cafés.
 
