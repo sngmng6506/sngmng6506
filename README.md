@@ -32,7 +32,7 @@
 
 - Korean fortune-telling service
 
-**📚 Café Study Meetup (2026.06  )**
+**📚 Café Study Meetup (2026.06 ~ )**
 
 - Web platform for creating and joining study groups at local cafés.
 
