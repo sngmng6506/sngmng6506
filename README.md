@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sangmyeong Lee 
+# Hi, I'm Sangmyeong Lee 
 
 1. AI Engineer in manufacturing.
 2. AI-native Builder
