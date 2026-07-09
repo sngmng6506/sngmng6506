@@ -186,6 +186,10 @@
 
 ## 🛠 Tech Stack
 
+
+<details>
+<summary>Click to expand</summary>
+
 **Core Stack (Mainly Used)**
 - **Language**: Python
 - **Backend**: FastAPI
@@ -194,6 +198,9 @@
 **Experienced**
 - **Languages**: JavaScript, C++
 - **Backend**: Node.js, NestJS
+
+</details>
+
 
 ---
 
