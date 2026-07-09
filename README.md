@@ -223,4 +223,3 @@ Organizer of an IT & AI study group (weekly, every Saturday) since 2026.01
 
 ---
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sngmng6506.sngmng6506)
