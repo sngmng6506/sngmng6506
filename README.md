@@ -26,7 +26,8 @@
  
 **☕ Caffeine Flow (2026.04 ~ )**
 
-- Real-time café music request platform — customers request songs via QR code; owners manage playback through a desktop dashboard. 
+- Developed a real-time café music request platform where customers submit song requests via QR codes and café owners manage requests and playback through a desktop dashboard.
+- Implemented an LLM-powered music filtering system that evaluates song requests based on each café’s policies.
 
 **🔮 Saju Web (2026.06 ~ [On hold] )**
 
