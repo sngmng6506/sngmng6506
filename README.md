@@ -37,21 +37,6 @@
 
 - Web platform for creating and joining study groups at local cafés.
 
-</details>
-
----
-
-## ✅ Side Projects - Completed 
-
-<details>
-<summary>Click to expand</summary>
- 
-**📈 Stock Peek (2026.05 ~ 2026.06)**
-
-- Stock Checker - glance at your stock portfolio
-
-</details>
-
 
 ---
 
