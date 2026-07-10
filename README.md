@@ -36,7 +36,7 @@
 **📚 Café Study Meetup (2026.06 ~ )**
 
 - Web platform for creating and joining study groups at local cafés.
-
+</details>
 
 ---
 
