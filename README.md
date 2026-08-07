@@ -17,7 +17,7 @@
 ---
 
 
-## 🚀 Side Projects - In Progress
+## 🚀 Side Projects
 
 
 <details>
