@@ -18,7 +18,6 @@
 
 
 ## 🚀 Side Projects - In Progress
-- I try to treat every side project as a chance to go on one technical element on purpose
 
 
 <details>
