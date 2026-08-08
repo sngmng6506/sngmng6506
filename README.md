@@ -7,6 +7,7 @@
 - "Code" → Here
 - "Research Notes" → https://lifes-ng.tistory.com/
 - "Engineering Notes" → https://velog.io/@sngmng6506/posts
+- "Portfolio" → 
 
 
 ---
