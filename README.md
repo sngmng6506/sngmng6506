@@ -7,7 +7,7 @@
 - "Code" → Here
 - "Research Notes" → https://lifes-ng.tistory.com/
 - "Engineering Notes" → https://velog.io/@sngmng6506/posts
-- "Portfolio" →  [포트폴리오 전체 보기(portfolio_260808.pdf)
+- "Portfolio" →  [포트폴리오 전체 보기](portfolio_260808.pdf)
 
 
 ---
