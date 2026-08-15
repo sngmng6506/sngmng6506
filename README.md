@@ -129,7 +129,7 @@
 <details>
 <summary>Click to expand</summary>
 
-- **An XAI Model for Semiconductor Manufacturing Processes based on Confidence Interval Visualization for the Impact of Process Parameters** *(First Author)*  
+~~ - **An XAI Model for Semiconductor Manufacturing Processes based on Confidence Interval Visualization for the Impact of Process Parameters** *(First Author)*   ~~
   *KISM 2023 (Korean International Semiconductor Conference on Manufacturing Technology)*, 2023.11  
   - Applied Explainable AI (XAI) to analyze semiconductor manufacturing process data.
   - Visualized confidence intervals to represent the reliability of process parameter impacts.
