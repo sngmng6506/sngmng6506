@@ -128,16 +128,16 @@
 
 <details>
 <summary>Click to expand</summary>
+ 
+- ~~**An XAI Model for Semiconductor Manufacturing Processes based on Confidence Interval Visualization for the Impact of Process Parameters** *(First Author)*~~
+  ~~*KISM 2023 (Korean International Semiconductor Conference on Manufacturing Technology)*, 2023.11~~
+  - ~~Applied Explainable AI (XAI) to analyze semiconductor manufacturing process data.~~
+  - ~~Visualized confidence intervals to represent the reliability of process parameter impacts.~~
 
-~~ - **An XAI Model for Semiconductor Manufacturing Processes based on Confidence Interval Visualization for the Impact of Process Parameters** *(First Author)*   ~~
-  *KISM 2023 (Korean International Semiconductor Conference on Manufacturing Technology)*, 2023.11  
-  - Applied Explainable AI (XAI) to analyze semiconductor manufacturing process data.
-  - Visualized confidence intervals to represent the reliability of process parameter impacts.
-
-- **An XAI Model for Semiconductor Manufacturing Processes with Exploring Process Parameter Interactions based on Uncertainty** *(Co-author)*  
-  *KISM 2023 (Korean International Semiconductor Conference on Manufacturing Technology)*, 2023.11  
-  - Explored interactions between process parameters using Explainable AI (XAI).
-  - Analyzed parameter interaction effects based on uncertainty quantification in manufacturing data.
+- ~~**An XAI Model for Semiconductor Manufacturing Processes with Exploring Process Parameter Interactions based on Uncertainty** *(Co-author)*~~
+  ~~*KISM 2023 (Korean International Semiconductor Conference on Manufacturing Technology)*, 2023.11~~
+  - ~~Explored interactions between process parameters using Explainable AI (XAI).~~
+  - ~~Analyzed parameter interaction effects based on uncertainty quantification in manufacturing data.~~
 
 - [확률적 게이트를 통한 일반화 가법 모형의 안정적인 희소성 제약](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862086) (Stable Sparsity Constraint in Generalized Additive Models via Stochastic Gate) *(First Author)*  
   *KCC 2024 (Korean Computer Congress)*, 2024.06  
