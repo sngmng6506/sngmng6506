@@ -29,13 +29,6 @@
 - Developed a real-time café music request platform where customers submit song requests via QR codes and café owners manage requests and playback through a desktop dashboard.
 - Implemented an LLM-powered music filtering system that evaluates song requests based on each café’s policies.
 
-**🔮 Saju Web (2026.06 ~ [On hold] )**
-
-- Korean fortune-telling service
-
-**📚 Café Study Meetup (2026.06 ~ 2026.09 )**
-
-- Web platform for creating and joining study groups at local cafés.
 </details>
 
 ---
