@@ -132,8 +132,8 @@
   - ~~Explored interactions between process parameters using Explainable AI (XAI).~~
   - ~~Analyzed parameter interaction effects based on uncertainty quantification in manufacturing data.~~
 
--[COMPANION ANIMAL DISEASE DIAGNOSTICS BASED ON LITERAL-AWARE MEDICAL KNOWLEDGE GRAPH REPRESENTATION LEARNING](https://arxiv.org/pdf/2309.03219) *(Co-author)*
-* IEEE Access, 2023
+- [COMPANION ANIMAL DISEASE DIAGNOSTICS BASED ON LITERAL-AWARE MEDICAL KNOWLEDGE GRAPH REPRESENTATION LEARNING](https://arxiv.org/pdf/2309.03219) *(Co-author)*
+ *IEEE Access*, 2023
 - Medical knowledge graph representation learning for companion animal disease diagnosis
 - LiteralKG: integrating numerical and textual attributes with graph structure through gated fusion and self-supervised learning
 
