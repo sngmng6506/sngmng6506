@@ -134,8 +134,8 @@
 
 - [COMPANION ANIMAL DISEASE DIAGNOSTICS BASED ON LITERAL-AWARE MEDICAL KNOWLEDGE GRAPH REPRESENTATION LEARNING](https://arxiv.org/pdf/2309.03219) *(Co-author)*
  *IEEE Access*, 2023
-- Medical knowledge graph representation learning for companion animal disease diagnosis
-- LiteralKG: integrating numerical and textual attributes with graph structure through gated fusion and self-supervised learning
+  - Medical knowledge graph representation learning for companion animal disease diagnosis
+  - LiteralKG: integrating numerical and textual attributes with graph structure through gated fusion and self-supervised learning
 
 
 - [확률적 게이트를 통한 일반화 가법 모형의 안정적인 희소성 제약](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862086) (Stable Sparsity Constraint in Generalized Additive Models via Stochastic Gate) *(First Author)*  
