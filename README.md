@@ -13,7 +13,7 @@
 ---
 
 ## 🧭 Now
-- AI Engineer at **Hanwha Momentum** (2024.12 ~ )
+- AI Engineer at [**Hanwha Momentum**](https://m.hanwhamomentum.com/) (2024.12 ~ )
 
 ---
 
