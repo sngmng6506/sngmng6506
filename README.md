@@ -30,7 +30,7 @@
 - Currently participating in the [모두의 창업](https://www.modoo.or.kr/member/%ED%95%98%EC%9D%B42) startup support program to further develop and commercialize the platform.
 
 
-**🏆 SK hynix AI Hackathon (2026.10 – Present)**
+**🏆 SK hynix AI Hackathon (2026.10 ~ )**
 
 - Currently participating in the SK hynix AI Hackathon.
   
