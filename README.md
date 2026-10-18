@@ -123,7 +123,7 @@
   - ~~Analyzed process parameter interactions in semiconductor manufacturing using XAI and uncertainty quantification.~~
 
 - [COMPANION ANIMAL DISEASE DIAGNOSTICS BASED ON LITERAL-AWARE MEDICAL KNOWLEDGE GRAPH REPRESENTATION LEARNING](https://arxiv.org/pdf/2309.03219) *(Co-author)*
- *IEEE Access*, 2023
+  *IEEE Access*, 2023
   - Medical knowledge graph representation learning for companion animal disease diagnosis
 
 
