@@ -47,9 +47,7 @@
 
 ### 🏢 Hanwha Momentum
 **AI Engineer** (2024.12 ~ )  
-- Developing AI services for manufacturing
-- Designing anomaly detection pipelines for industrial sensor or image data
-- Implementing and evaluating vision-based defect detection and LLM-based chatbot systems through applied PoCs
+- Developing AI solutions for battery manufacturing equipment.
 
 ### 🎓 Hanyang University – AI Graduate School  
 **M.S. in Artificial Intelligence** (2023.03 – 2025.02)  
