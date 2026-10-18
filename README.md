@@ -117,15 +117,13 @@
 <details>
 <summary>Click to expand</summary>
  
-- ~~**An XAI Model for Semiconductor Manufacturing Processes based on Confidence Interval Visualization for the Impact of Process Parameters** *(First Author)*~~
-  ~~*KISM 2023 (Korean International Semiconductor Conference on Manufacturing Technology)*, 2023.11~~
-  - ~~Applied Explainable AI (XAI) to analyze semiconductor manufacturing process data.~~
-  - ~~Visualized confidence intervals to represent the reliability of process parameter impacts.~~
+- ~~**An XAI Model for Semiconductor Manufacturing Processes based on Confidence Interval Visualization for the Impact of Process Parameters** *(First Author)*~~  
+  ~~*KISM 2023 (Korean International Semiconductor Conference on Manufacturing Technology)*, 2023.11~~  
+  - ~~Visualized confidence intervals of process parameter effects to support uncertainty-aware interpretation of semiconductor manufacturing data.~~
 
-- ~~**An XAI Model for Semiconductor Manufacturing Processes with Exploring Process Parameter Interactions based on Uncertainty** *(Co-author)*~~
-  ~~*KISM 2023 (Korean International Semiconductor Conference on Manufacturing Technology)*, 2023.11~~
-  - ~~Explored interactions between process parameters using Explainable AI (XAI).~~
-  - ~~Analyzed parameter interaction effects based on uncertainty quantification in manufacturing data.~~
+- ~~**An XAI Model for Semiconductor Manufacturing Processes with Exploring Process Parameter Interactions based on Uncertainty** *(Co-author)*~~  
+  ~~*KISM 2023 (Korean International Semiconductor Conference on Manufacturing Technology)*, 2023.11~~  
+  - ~~Analyzed process parameter interactions in semiconductor manufacturing using XAI and uncertainty quantification.~~
 
 - [COMPANION ANIMAL DISEASE DIAGNOSTICS BASED ON LITERAL-AWARE MEDICAL KNOWLEDGE GRAPH REPRESENTATION LEARNING](https://arxiv.org/pdf/2309.03219) *(Co-author)*
  *IEEE Access*, 2023
