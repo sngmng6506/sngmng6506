@@ -18,7 +18,7 @@
 ---
 
 
-## 🚀 Side Projects
+## 🚀 Side Projects & Competitions
 
 
 <details>
@@ -28,6 +28,13 @@
 
 - Developed a real-time café music request platform where customers submit song requests via QR codes and café owners manage requests and playback through a desktop dashboard.
 - Implemented an LLM-powered music filtering system that evaluates song requests based on each café’s policies.
+- Currently participating in the [모두의 창업](https://www.modoo.or.kr/member/%ED%95%98%EC%9D%B42) startup support program to further develop and commercialize the platform.
+
+
+**🏆 SK hynix AI Hackathon (2026.10 – Present)**
+
+- Currently participating in the SK hynix AI Hackathon.
+  
 
 </details>
 
