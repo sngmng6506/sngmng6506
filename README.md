@@ -53,15 +53,13 @@
 **Affiliation:** [DI Lab (Data Intelligence Lab)](https://dilab.hanyang.ac.kr/)
 
 **Research Focus**
-- Explainable AI (XAI)
-- Tabular and time-series data
+- Explainable AI (XAI), Tabular and time-series data
 - Model multiplicity and its implications for explainability
   * I study why multiple high-performing models can lead to different explanations, often referred to as the Rashomon effect.
 
 ### 🎓 The Catholic University of Korea – Department of Physics
 **B.S. in Physics** (2016.03 – 2023.02)
 - Major GPA: 4.14/4.5
-- Studied fundamental physics and mathematics
 
 **Undergraduate Research Experience**
 - Undergraduate researcher at [Network & Systems Lab (NSLab)](https://nslab-cuk.github.io/) (2022)
