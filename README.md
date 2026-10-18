@@ -97,22 +97,16 @@
 <summary>Click to expand</summary>
 
 - **National Security Research Institute (NSR)** — *Research Lead*  
-  **Correlation Study on Training Data Information Volume and Detection Accuracy of Timeseries Anomaly Detection**  
   *(2023.04 – 2023.09)*  
-  - Conducted correlation analysis between training data information content and anomaly detection performance  
-  - Evaluated robustness and reliability of timeseries anomaly detection AI models for timeseries anomaly detection  
+  - Analyzed the relationship between training data information content and time-series anomaly detection performance.
 
 - **Samsung Electronics** — *Research Engineer*  
-  **Explainable AI for Semiconductor Process Data Analysis**  
   *(2023.10 – 2024.04)*  
-  - Developed explainable AI models for semiconductor manufacturing process data  
-  - Focused on uncertainty-aware interpretation of process parameters  
+  - Developed explainable AI models for semiconductor process data analysis with uncertainty-aware interpretations.
 
 - **Hyundai Motor Company** — *Research Lead*  
-  **Explainable AI for Vehicle Load Prediction & Prognostics**  
   *(2024.03 – 2024.11)*  
-  - Built interpretable AI model pipelines for vehicle load prediction and prognostics  
-  - Improved reliability and transparency through XAI techniques  
+  - Developed interpretable AI models for vehicle load prediction and prognostics.
 
 </details>
 
@@ -136,13 +130,11 @@
 - [COMPANION ANIMAL DISEASE DIAGNOSTICS BASED ON LITERAL-AWARE MEDICAL KNOWLEDGE GRAPH REPRESENTATION LEARNING](https://arxiv.org/pdf/2309.03219) *(Co-author)*
  *IEEE Access*, 2023
   - Medical knowledge graph representation learning for companion animal disease diagnosis
-  - LiteralKG: integrating numerical and textual attributes with graph structure through gated fusion and self-supervised learning
 
 
 - [확률적 게이트를 통한 일반화 가법 모형의 안정적인 희소성 제약](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862086) (Stable Sparsity Constraint in Generalized Additive Models via Stochastic Gate) *(First Author)*  
   *KCC 2024 (Korean Computer Congress)*, 2024.06  
-  - Explainable AI for tabular data
-  - Proposed stable sparsity constraints for generalized additive models
+- Proposed stable sparsity constraints for generalized additive models to improve interpretability for tabular data.
 
 - [희소한 일반화 가법 모형에서 신뢰할 수 있는 특징 선택을 위한 안정성 순위 기반 앙상블 기법](https://lib.hanyang.ac.kr/search/i-discovery/23237461?type=biblios-list-view) (A Stability Rank-Based Ensemble Approach towards Reliable Feature Selection in Sparse Generalized Additive Models) *(First Author)*  
   *Master's Thesis*, 2025  
