@@ -26,8 +26,7 @@
  
 **☕ Caffeine Flow (2026.04 ~ )**
 
-- Developed a real-time café music request platform where customers submit song requests via QR codes and café owners manage requests and playback through a desktop dashboard.
-- Implemented an LLM-powered music filtering system that evaluates song requests based on each café’s policies.
+- Developed a café music request platform with LLM-powered filtering tailored to each café’s policies.
 - Currently participating in the [모두의 창업](https://www.modoo.or.kr/member/%ED%95%98%EC%9D%B42) startup support program to further develop and commercialize the platform.
 
 
@@ -80,16 +79,13 @@
 <summary>Click to expand</summary>
 
 - **Vision-based Defect Detection PoC** *(2025)*
-  - Focused on model training, evaluation
-  - Experimented with YOLO- and DETR-based models to compare detection accuracy and practical trade-offs
+  - Trained and evaluated YOLO- and DETR-based models for industrial defect detection.
 
-- **PoC for LLM-based Chatbot Functions** *(Industry–Academia Project)* *(2025)*
-  - Implemented RAG, TAG, and fine-tuning approaches
-  - Analyzed trade-offs of different LLM integration methods from a system perspective
+- **LLM-based Chatbot PoC** *(Industry–Academia Project, 2025)*
+  - Implemented and compared RAG, TAG, and fine-tuning approaches for an industrial chatbot.
 
-- **Vision-based Quality Inspection System for Process Equipment** *(2026 – Present)*
-  - Developed a vision-based measurement and inspection system to ensure precision and quality metrics of process equipment.
-  - Implemented real-time visual inspection algorithms to verify dimensional and functional accuracy against quality standards.
+- **Vision-based Measurement and Alignment System** *(2026 – Present)*
+  - Developing vision-based measurement(µm) and alignment control algorithms for battery manufacturing equipment.
 
 </details>
 
