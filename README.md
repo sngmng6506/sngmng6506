@@ -24,13 +24,13 @@
 <details>
 <summary>Click to expand</summary>
  
-**☕ Caffeine Flow (2026.04 ~ )**
+**☕ Caffeine Flow (2026.04 - )**
 
 - Developed a café music request platform with LLM-powered filtering tailored to each café’s policies.
 - Currently participating in the [모두의 창업](https://www.modoo.or.kr/member/%ED%95%98%EC%9D%B42) startup support program to further develop and commercialize the platform.
 
 
-**🏆 SK hynix AI Hackathon (2026.10 ~ )**
+**🏆 SK hynix AI Hackathon (2026.10 - )**
 
 - Currently participating in the SK hynix AI Hackathon.
   
@@ -45,7 +45,7 @@
 <summary>Click to expand</summary>
 
 ### 🏢 Hanwha Momentum
-**AI Engineer** (2024.12 ~ )  
+**AI Engineer** (2024.12 - )  
 - Developing AI solutions for battery manufacturing equipment.
 
 ### 🎓 Hanyang University – AI Graduate School  
