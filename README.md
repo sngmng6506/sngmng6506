@@ -190,7 +190,7 @@ Organizer of an IT & AI study group (weekly, every Saturday) since 2026.01
 
 
 ## 📫 Contact
-- 📫 sngmng6506@gmail.com
+-  sngmng6506@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/sangmyeong-lee-a6a202268/)
 
 ---
