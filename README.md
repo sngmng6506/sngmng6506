@@ -3,7 +3,7 @@
 1. AI Engineer in manufacturing.
 2. AI-native Builder
 
-- [LinkedIn](https://www.linkedin.com/in/sangmyeong-lee-a6a202268/)
+   
 - "Code" → Here
 - "Research Notes" → https://lifes-ng.tistory.com/
 - "Engineering Notes" → https://velog.io/@sngmng6506/posts
@@ -191,6 +191,7 @@ Organizer of an IT & AI study group (weekly, every Saturday) since 2026.01
 
 ## 📫 Contact
 - 📫 sngmng6506@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/sangmyeong-lee-a6a202268/)
 
 ---
 
