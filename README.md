@@ -73,7 +73,7 @@
 
 </details>
 
----
+
 
 ## 🏢 Industry Projects
 
@@ -91,7 +91,7 @@
 
 </details>
 
----
+
 
 ## 🏭 Graduate School Projects
 
@@ -112,7 +112,7 @@
 
 </details>
 
----
+
 
 ## 📄 Publications
 
@@ -141,7 +141,7 @@
 </details>
 
 
----
+
 
 ## 🪪 Certifications
 
@@ -156,7 +156,7 @@
 
 </details>
 
----
+
 
 
 
@@ -180,7 +180,7 @@
 </details>
 
 
----
+
 
 ## 📚 Study & Community
 
