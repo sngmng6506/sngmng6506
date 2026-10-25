@@ -198,7 +198,7 @@ Organizer of an IT & AI study group (weekly, every Saturday) since 2026.01
 -  sngmng6506@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/sangmyeong-lee-a6a202268/)
 
----
+
 
 <!-- activity-atlas -->
 ## Activity Map
@@ -208,7 +208,7 @@ Organizer of an IT & AI study group (weekly, every Saturday) since 2026.01
 
 <!-- /activity-atlas -->
 
----
+
 
 
 <!-- daily-repository-views -->
