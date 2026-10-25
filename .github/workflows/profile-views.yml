@@ -50,8 +50,8 @@ jobs:
           node --input-type=module <<'JS'
           import { readFileSync, writeFileSync } from 'node:fs'
           const rows = JSON.parse(readFileSync('cache/555248279/month.json', 'utf8'))
-          const width = 1000, height = 95
-          const left = 30, right = 982, top = 30, bottom = 69
+          const width = 1000, height = 150
+          const left = 30, right = 982, top = 35, bottom = 118
           const values = rows.map(row => Math.max(0, Number(row.uniques) || 0))
           const maximum = Math.max(1, ...values)
           const x = i => left + i * (right - left) / Math.max(1, rows.length - 1)
@@ -63,11 +63,11 @@ jobs:
           }
           const ticks = rows.map((row, i) => {
             if (i % 7 !== 0 && i !== rows.length - 1) return ''
-            return '<text x="' + x(i) + '" y="88" text-anchor="middle">' + dateLabel(row) + '</text>'
+            return '<text x="' + x(i) + '" y="141" text-anchor="middle">' + dateLabel(row) + '</text>'
           }).join('')
           const dots = values.map((value, i) => value > 0
             ? '<circle cx="' + x(i) + '" cy="' + y(value) + '" r="2.5" class="dot"/>' : '').join('')
-          const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="95" viewBox="0 0 1000 95" role="img" aria-labelledby="title desc">
+          const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" role="img" aria-labelledby="title desc">
           <title id="title">Daily unique visitors</title>
           <desc id="desc">Unique visitors per UTC day to the profile repository over the last 30 days.</desc>
           <style>
@@ -80,9 +80,9 @@ jobs:
           </style>
           <text x="30" y="15" class="heading">DAILY UNIQUE VISITORS</text>
           <text x="982" y="15" text-anchor="end">Last 30 days · UTC</text>
-          <line x1="30" y1="30" x2="982" y2="30" class="grid" stroke-dasharray="2 4" opacity=".55"/>
-          <line x1="30" y1="69" x2="982" y2="69" class="grid"/>
-          <text x="20" y="34" text-anchor="end">${maximum}</text><text x="20" y="73" text-anchor="end">0</text>
+          <line x1="30" y1="35" x2="982" y2="35" class="grid" stroke-dasharray="2 4" opacity=".55"/>
+          <line x1="30" y1="118" x2="982" y2="118" class="grid"/>
+          <text x="20" y="39" text-anchor="end">${maximum}</text><text x="20" y="122" text-anchor="end">0</text>
           <polyline points="${points}" class="line"/>${dots}${ticks}
           </svg>`
           writeFileSync('graph/555248279/large/month.svg', svg)
