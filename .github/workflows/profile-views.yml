@@ -78,6 +78,9 @@ jobs:
           git fetch origin master
           git cat-file -e origin/master:graph/555248279/large/month.png
 
+      - name: Select immutable graph URL
+        run: echo "GRAPH_COMMIT=$(git rev-parse origin/master)" >> "$GITHUB_ENV"
+
       - uses: actions/checkout@v5
         with:
           ref: main
@@ -87,10 +90,10 @@ jobs:
         working-directory: profile
         shell: python
         run: |
-          import pathlib, re
+          import os, pathlib, re
           p = pathlib.Path("README.md")
           text = p.read_text()
-          graph = '<img src="https://raw.githubusercontent.com/sngmng6506/sngmng6506/master/graph/555248279/large/month.png" alt="Daily unique visitors to the profile repository" width="100%">'
+          graph = f'<img src="https://raw.githubusercontent.com/sngmng6506/sngmng6506/{os.environ["GRAPH_COMMIT"]}/graph/555248279/large/month.png" alt="Daily unique visitors to the profile repository" width="100%">'
           marker = "<!-- daily-repository-views -->"
           block = marker + "\n" + graph + "\n<!-- /daily-repository-views -->"
           if marker in text:
