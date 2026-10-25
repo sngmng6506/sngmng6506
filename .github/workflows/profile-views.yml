@@ -62,7 +62,7 @@ jobs:
             borderColor: '#3688a4'
           }]
           execFileSync('npx', ['--yes', 'node-chart-exec@3.0.0', '--type=line',
-            '--options=false', '--height=280', '--width=1000',
+            '--options=false', '--height=95', '--width=1000',
             '--labels=' + JSON.stringify(labels), '--dataset=' + JSON.stringify(dataset),
             '--outputfile=graph/555248279/large/month.png'], {stdio: 'inherit'})
           JS
