@@ -21,6 +21,16 @@
 
 ---
 
+<!-- activity-atlas -->
+## Activity Atlas
+
+[![Sangmyeong's activity atlas](docs/activity-map/preview.svg)](https://sngmng6506.github.io/sngmng6506/activity-map/)
+
+[Explore the map ↗](https://sngmng6506.github.io/sngmng6506/activity-map/) · Zoom, search, and follow the connections.
+
+---
+
+<!-- /activity-atlas -->
 ## 🧭 Now
 - AI Engineer at [Hanwha Momentum](https://m.hanwhamomentum.com/) 
 
