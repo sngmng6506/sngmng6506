@@ -1,4 +1,4 @@
- # Hi, I'm Sangmyeong Lee 
+ # Hire me 
 
 1. AI Engineer in manufacturing.
 2. AI-native Builder
