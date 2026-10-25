@@ -62,7 +62,7 @@ jobs:
             borderColor: '#3688a4'
           }]
           execFileSync('npx', ['--yes', 'node-chart-exec@3.0.0', '--type=line',
-            '--options=false', '--height=400', '--width=400',
+            '--options=false', '--height=280', '--width=1000',
             '--labels=' + JSON.stringify(labels), '--dataset=' + JSON.stringify(dataset),
             '--outputfile=graph/555248279/large/month.png'], {stdio: 'inherit'})
           JS
@@ -90,7 +90,7 @@ jobs:
           import pathlib, re
           p = pathlib.Path("README.md")
           text = p.read_text()
-          graph = "![Profile repository daily views](https://raw.githubusercontent.com/sngmng6506/sngmng6506/master/graph/555248279/large/month.png)"
+          graph = '<img src="https://raw.githubusercontent.com/sngmng6506/sngmng6506/master/graph/555248279/large/month.png" alt="Daily unique visitors to the profile repository" width="100%">'
           marker = "<!-- daily-repository-views -->"
           block = marker + "\n" + graph + "\n<!-- /daily-repository-views -->"
           if marker in text:
