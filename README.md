@@ -1,4 +1,4 @@
- # Hi, I'm Lee Sangmyeong. [ Open to opportunities ]
+ #  [ Open to opportunities ] Hi, I'm Lee Sangmyeong.
 
 1. AI Engineer in manufacturing.
 2. AI-native Builder
