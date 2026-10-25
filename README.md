@@ -13,8 +13,6 @@
 - "Portfolio" →  [PDF](portfolio_260808.pdf)
 - "Support me" → [Buy Me a Coffee](https://buymeacoffee.com/sngmng)
 
----
-
 ## 🧭 Now
 - AI Engineer at [Hanwha Momentum](https://m.hanwhamomentum.com/) 
 
