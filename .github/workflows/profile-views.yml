@@ -1,0 +1,87 @@
+name: Daily profile repository views
+
+on:
+  schedule:
+    - cron: '17 0 * * *' # Daily at 09:17 KST (GitHub may delay scheduled runs)
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/profile-views.yml']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-repository-views
+  cancel-in-progress: false
+
+jobs:
+  graph:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Check traffic API credential
+        env:
+          INSIGHTS_TOKEN: ${{ secrets.INSIGHTS_TOKEN }}
+        run: |
+          if [ -z "$INSIGHTS_TOKEN" ]; then
+            echo "::error::Add INSIGHTS_TOKEN in repository Settings > Secrets and variables > Actions. Use a token restricted to this repository with Administration read access."
+            exit 1
+          fi
+
+      # Upstream writes README.md and pushes to master. Keep that work off the profile's main branch.
+      - uses: actions/checkout@v5
+        with:
+          ref: master
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v6
+        with:
+          node-version: '24'
+
+      - name: Generate traffic history and graphs
+        uses: gayanvoice/github-profile-views-counter-action@2d855d44a247dbe33388f16082e3848e99304a24 # 5.0.0
+        env:
+          INSIGHTS_TOKEN: ${{ secrets.INSIGHTS_TOKEN }}
+          USER_AGENT: sngmng6506-profile-views
+
+      - name: Verify graph was generated and saved
+        run: |
+          test -s graph/555248279/large/month.png
+          git fetch origin master
+          git cat-file -e origin/master:graph/555248279/large/month.png
+
+      - uses: actions/checkout@v5
+        with:
+          ref: main
+          path: profile
+
+      - name: Show only the graph in the profile README
+        working-directory: profile
+        shell: python
+        run: |
+          import pathlib, re
+          p = pathlib.Path("README.md")
+          text = p.read_text()
+          graph = "![Profile repository daily views](https://raw.githubusercontent.com/sngmng6506/sngmng6506/master/graph/555248279/large/month.png)"
+          marker = "<!-- daily-repository-views -->"
+          block = marker + "\n" + graph + "\n<!-- /daily-repository-views -->"
+          if marker in text:
+              text = re.sub(r"<!-- daily-repository-views -->.*?<!-- /daily-repository-views -->", block, text, flags=re.S)
+          elif re.search(r"^!\[Profile views\]\(https://komarev\.com/ghpvc/[^\n]*\)\s*$", text, flags=re.M):
+              text = re.sub(r"^!\[Profile views\]\(https://komarev\.com/ghpvc/[^\n]*\)\s*$", lambda _: block + "\n", text, count=1, flags=re.M)
+          else:
+              lines = text.splitlines(keepends=True)
+              lines.insert(1, "\n" + block + "\n")
+              text = "".join(lines)
+          p.write_text(text)
+
+      - name: Save profile graph link
+        working-directory: profile
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          if ! git diff --cached --quiet; then
+            git commit -m "Show daily repository views graph in profile"
+            git push origin HEAD:main
+          fi
