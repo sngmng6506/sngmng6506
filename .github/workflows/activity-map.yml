@@ -1,0 +1,31 @@
+name: Publish activity map
+on:
+  push:
+    branches: [main]
+    paths: ['docs/**', 'scripts/build-activity-preview.py', '.github/workflows/activity-map.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: activity-map-pages
+  cancel-in-progress: true
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v5
+      - name: Regenerate map preview
+        run: |
+          python scripts/build-activity-preview.py
+          git diff --exit-code -- docs/activity-map/preview.svg
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - id: deploy
+        uses: actions/deploy-pages@v4

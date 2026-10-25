@@ -1,0 +1,364 @@
+{
+  "nodes": [
+    {
+      "id": "me",
+      "label": "Sangmyeong",
+      "group": "person",
+      "x": 0,
+      "y": 0,
+      "level": 0,
+      "description": "제조 AI 엔지니어 · AI-native Builder. 만드는 서비스와 연구, 기록, 커뮤니티의 연결을 탐색해 보세요.",
+      "url": "https://github.com/sngmng6506"
+    },
+    {
+      "id": "build",
+      "label": "Build",
+      "group": "build",
+      "x": -330,
+      "y": -90,
+      "level": 0,
+      "description": "직접 개발하는 서비스와 도구.",
+      "url": null
+    },
+    {
+      "id": "write",
+      "label": "Write",
+      "group": "write",
+      "x": 350,
+      "y": -90,
+      "level": 0,
+      "description": "연구와 엔지니어링 과정을 기록하는 두 채널.",
+      "url": null
+    },
+    {
+      "id": "community",
+      "label": "Connect",
+      "group": "community",
+      "x": 150,
+      "y": 300,
+      "level": 0,
+      "description": "사람들과 함께 배우고 공유하는 활동.",
+      "url": null
+    },
+    {
+      "id": "research",
+      "label": "Research",
+      "group": "research",
+      "x": -100,
+      "y": -340,
+      "level": 0,
+      "description": "설명 가능한 AI와 해석 가능한 모델 연구.",
+      "url": null
+    },
+    {
+      "id": "caffeine",
+      "label": "Caffeine Flow",
+      "group": "build",
+      "x": -610,
+      "y": -200,
+      "level": 0,
+      "description": "카페 정책에 맞춘 LLM 필터링을 제공하는 음악 신청 플랫폼. 모두의 창업 프로그램 참여.",
+      "url": "https://github.com/sngmng6506/caffeine-Flow"
+    },
+    {
+      "id": "stock",
+      "label": "Stock Peek",
+      "group": "build",
+      "x": -630,
+      "y": 120,
+      "level": 0,
+      "description": "화면 가장자리에서 관심 종목의 시세를 확인하는 데스크톱 위젯.",
+      "url": "https://stock-peek.com/"
+    },
+    {
+      "id": "tistory",
+      "label": "Research Notes",
+      "group": "write",
+      "x": 630,
+      "y": -240,
+      "level": 0,
+      "description": "Tistory에 공개하는 연구 노트.",
+      "url": "https://lifes-ng.tistory.com/"
+    },
+    {
+      "id": "velog",
+      "label": "Engineering Notes",
+      "group": "write",
+      "x": 650,
+      "y": 80,
+      "level": 0,
+      "description": "Velog에 공개하는 엔지니어링 노트.",
+      "url": "https://velog.io/@sngmng6506/posts"
+    },
+    {
+      "id": "study",
+      "label": "IT & AI Study",
+      "group": "community",
+      "x": 390,
+      "y": 420,
+      "level": 0,
+      "description": "2026년 1월부터 매주 토요일 진행하는 IT & AI 스터디의 운영자.",
+      "url": "https://www.somoim.co.kr/eb377bbe-e53f-46c2-a0a3-89b7dd98667c1"
+    },
+    {
+      "id": "xai",
+      "label": "Explainable AI",
+      "group": "research",
+      "x": -370,
+      "y": -470,
+      "level": 0,
+      "description": "테이블·시계열 데이터를 위한 설명 가능한 AI. 성능이 비슷한 모델들이 서로 다른 설명을 내놓는 현상에 관심을 두고 있습니다.",
+      "url": null
+    },
+    {
+      "id": "papers",
+      "label": "Publications",
+      "group": "research",
+      "x": 160,
+      "y": -510,
+      "level": 0,
+      "description": "일반화 가법 모형의 안정적 희소성·특징 선택에 관한 연구.",
+      "url": "https://github.com/sngmng6506/sngmng6506#-publications"
+    },
+    {
+      "id": "manufacturing",
+      "label": "Manufacturing AI",
+      "group": "research",
+      "x": -210,
+      "y": 270,
+      "level": 0,
+      "description": "한화모멘텀에서 배터리 제조 장비를 위한 AI 솔루션과 비전 측정·정렬 제어 알고리즘을 개발합니다.",
+      "url": null
+    },
+    {
+      "id": "music",
+      "label": "Music requests",
+      "group": "build",
+      "x": -860,
+      "y": -280,
+      "level": 1,
+      "description": "카페 방문자의 음악 신청.",
+      "url": null
+    },
+    {
+      "id": "filter",
+      "label": "Policy filtering",
+      "group": "build",
+      "x": -680,
+      "y": -420,
+      "level": 1,
+      "description": "카페별 정책에 맞춘 LLM 기반 필터링.",
+      "url": null
+    },
+    {
+      "id": "quotes",
+      "label": "Market quotes",
+      "group": "build",
+      "x": -890,
+      "y": 60,
+      "level": 1,
+      "description": "관심 종목 시세를 확인하는 위젯.",
+      "url": null
+    },
+    {
+      "id": "hover",
+      "label": "Edge hover UI",
+      "group": "build",
+      "x": -780,
+      "y": 340,
+      "level": 1,
+      "description": "화면 가장자리에 마우스를 대면 나타나는 패널.",
+      "url": null
+    },
+    {
+      "id": "researchlog",
+      "label": "Research writing",
+      "group": "write",
+      "x": 900,
+      "y": -360,
+      "level": 1,
+      "description": "연구 과정과 학습 내용을 기록하는 채널.",
+      "url": null
+    },
+    {
+      "id": "devlog",
+      "label": "Engineering writing",
+      "group": "write",
+      "x": 910,
+      "y": 200,
+      "level": 1,
+      "description": "구현 과정과 기술 학습을 기록하는 채널.",
+      "url": null
+    },
+    {
+      "id": "weekly",
+      "label": "Weekly gathering",
+      "group": "community",
+      "x": 390,
+      "y": 650,
+      "level": 1,
+      "description": "매주 토요일 모이는 정기 스터디.",
+      "url": null
+    },
+    {
+      "id": "gam",
+      "label": "Generalized additive models",
+      "group": "research",
+      "x": -210,
+      "y": -720,
+      "level": 1,
+      "description": "해석 가능한 가법 모형에서 안정적인 특징 선택과 희소성을 연구합니다.",
+      "url": null
+    },
+    {
+      "id": "rashomon",
+      "label": "Model multiplicity",
+      "group": "research",
+      "x": -600,
+      "y": -660,
+      "level": 1,
+      "description": "성능이 비슷한 여러 모델이 서로 다른 설명을 생성하는 문제.",
+      "url": null
+    },
+    {
+      "id": "vision",
+      "label": "Vision measurement",
+      "group": "research",
+      "x": -430,
+      "y": 510,
+      "level": 1,
+      "description": "공정 장비를 위한 마이크로미터 단위 측정과 정렬 제어.",
+      "url": null
+    },
+    {
+      "id": "stable",
+      "label": "Stable sparsity · KCC 2024",
+      "group": "research",
+      "x": 50,
+      "y": -870,
+      "level": 2,
+      "description": "확률적 게이트를 통한 일반화 가법 모형의 안정적인 희소성 제약. 제1저자.",
+      "url": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862086"
+    },
+    {
+      "id": "thesis",
+      "label": "Feature selection · Thesis",
+      "group": "research",
+      "x": 350,
+      "y": -760,
+      "level": 2,
+      "description": "안정성 순위 기반 앙상블을 이용한 희소 가법 모형의 신뢰할 수 있는 특징 선택. 석사학위 논문.",
+      "url": "https://lib.hanyang.ac.kr/search/i-discovery/23237461?type=biblios-list-view"
+    }
+  ],
+  "edges": [
+    {
+      "source": "me",
+      "target": "build"
+    },
+    {
+      "source": "me",
+      "target": "write"
+    },
+    {
+      "source": "me",
+      "target": "community"
+    },
+    {
+      "source": "me",
+      "target": "research"
+    },
+    {
+      "source": "build",
+      "target": "caffeine"
+    },
+    {
+      "source": "build",
+      "target": "stock"
+    },
+    {
+      "source": "write",
+      "target": "tistory"
+    },
+    {
+      "source": "write",
+      "target": "velog"
+    },
+    {
+      "source": "community",
+      "target": "study"
+    },
+    {
+      "source": "research",
+      "target": "xai"
+    },
+    {
+      "source": "research",
+      "target": "papers"
+    },
+    {
+      "source": "me",
+      "target": "manufacturing"
+    },
+    {
+      "source": "caffeine",
+      "target": "music"
+    },
+    {
+      "source": "caffeine",
+      "target": "filter"
+    },
+    {
+      "source": "stock",
+      "target": "quotes"
+    },
+    {
+      "source": "stock",
+      "target": "hover"
+    },
+    {
+      "source": "tistory",
+      "target": "researchlog"
+    },
+    {
+      "source": "velog",
+      "target": "devlog"
+    },
+    {
+      "source": "study",
+      "target": "weekly"
+    },
+    {
+      "source": "xai",
+      "target": "gam"
+    },
+    {
+      "source": "xai",
+      "target": "rashomon"
+    },
+    {
+      "source": "manufacturing",
+      "target": "vision"
+    },
+    {
+      "source": "gam",
+      "target": "stable"
+    },
+    {
+      "source": "papers",
+      "target": "thesis"
+    },
+    {
+      "source": "papers",
+      "target": "stable"
+    },
+    {
+      "source": "gam",
+      "target": "thesis"
+    },
+    {
+      "source": "xai",
+      "target": "manufacturing"
+    }
+  ]
+}
