@@ -33,6 +33,11 @@
 **🏆 SK hynix AI Hackathon (2026.10 - )**
 
 - Currently participating in the SK hynix AI Hackathon.
+
+
+**Stock Peek (2024.06, maintenance )** 
+- https://stock-peek.com/
+
   
 
 </details>
