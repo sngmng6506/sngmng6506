@@ -42,7 +42,7 @@
 
 </details>
 
----
+
 
 ## 🏫 Experience
 
