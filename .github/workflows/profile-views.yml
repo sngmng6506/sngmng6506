@@ -21,10 +21,10 @@ jobs:
     steps:
       - name: Check traffic API credential
         env:
-          INSIGHTS_TOKEN: ${{ secrets.INSIGHTS_TOKEN }}
+          INSIGHTS_TOKEN: ${{ secrets.INSIGHTS_TOKEN_profile }}
         run: |
           if [ -z "$INSIGHTS_TOKEN" ]; then
-            echo "::error::Add INSIGHTS_TOKEN in repository Settings > Secrets and variables > Actions. Use a token restricted to this repository with Administration read access."
+            echo "::error::Add INSIGHTS_TOKEN_profile in repository Settings > Secrets and variables > Actions. Use a token restricted to this repository with Administration read access."
             exit 1
           fi
 
@@ -41,7 +41,7 @@ jobs:
       - name: Generate traffic history and graphs
         uses: gayanvoice/github-profile-views-counter-action@2d855d44a247dbe33388f16082e3848e99304a24 # 5.0.0
         env:
-          INSIGHTS_TOKEN: ${{ secrets.INSIGHTS_TOKEN }}
+          INSIGHTS_TOKEN: ${{ secrets.INSIGHTS_TOKEN_profile }}
           USER_AGENT: sngmng6506-profile-views
 
       - name: Verify graph was generated and saved
