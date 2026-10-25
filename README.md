@@ -8,7 +8,7 @@
 - "Research Notes" → https://lifes-ng.tistory.com/
 - "Engineering Notes" → https://velog.io/@sngmng6506/posts
 - "Portfolio" →  [PDF](portfolio_260808.pdf)
-- "Support" → https://buymeacoffee.com/sngmng
+- "Support me" → https://buymeacoffee.com/sngmng
 
 ---
 
