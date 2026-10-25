@@ -44,6 +44,34 @@ jobs:
           INSIGHTS_TOKEN: ${{ secrets.INSIGHTS_TOKEN_profile }}
           USER_AGENT: sngmng6506-profile-views
 
+      - name: Render only daily unique visitors
+        shell: bash
+        run: |
+          node --input-type=module <<'JS'
+          import { readFileSync } from 'node:fs'
+          import { execFileSync } from 'node:child_process'
+          const rows = JSON.parse(readFileSync('cache/555248279/month.json', 'utf8'))
+          const labels = rows.map(row => {
+            const date = new Date(row.timestamp)
+            return (date.getUTCMonth() + 1) + '/' + date.getUTCDate()
+          })
+          const dataset = [{
+            label: 'Unique visitors',
+            data: rows.map(row => row.uniques),
+            backgroundColor: '#4298b5',
+            borderColor: '#3688a4'
+          }]
+          execFileSync('npx', ['--yes', 'node-chart-exec@3.0.0', '--type=line',
+            '--options=false', '--height=400', '--width=400',
+            '--labels=' + JSON.stringify(labels), '--dataset=' + JSON.stringify(dataset),
+            '--outputfile=graph/555248279/large/month.png'], {stdio: 'inherit'})
+          JS
+          git add graph/555248279/large/month.png
+          if ! git diff --cached --quiet; then
+            git commit -m "Show only daily unique visitors in profile graph"
+            git push origin HEAD:master
+          fi
+
       - name: Verify graph was generated and saved
         run: |
           test -s graph/555248279/large/month.png
