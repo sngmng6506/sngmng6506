@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="95" viewBox="0 0 1000 95" role="img" aria-labelledby="title desc">
+<title id="title">Daily unique visitors</title>
+<desc id="desc">Unique visitors per UTC day to the profile repository over the last 30 days.</desc>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif;font-size:11px;fill:#6e7781}
+.heading{font-size:12px;font-weight:600;fill:#57606a}
+.grid{stroke:#d8dee4;stroke-width:1}
+.line{fill:none;stroke:#318b9e;stroke-width:1.8;stroke-linejoin:round;stroke-linecap:round}
+.dot{fill:#318b9e;stroke:#fff;stroke-width:1}
+@media(prefers-color-scheme:dark){text{fill:#8b949e}.heading{fill:#b1bac4}.grid{stroke:#30363d}.line{stroke:#65b7c6}.dot{fill:#65b7c6;stroke:#0d1117}}
+</style>
+<text x="30" y="15" class="heading">DAILY UNIQUE VISITORS</text>
+<text x="982" y="15" text-anchor="end">Last 30 days · UTC</text>
+<line x1="30" y1="30" x2="982" y2="30" class="grid" stroke-dasharray="2 4" opacity=".55"/>
+<line x1="30" y1="69" x2="982" y2="69" class="grid"/>
+<text x="20" y="34" text-anchor="end">1</text><text x="20" y="73" text-anchor="end">0</text>
+<polyline points="30.00,69.00 62.83,69.00 95.66,69.00 128.48,69.00 161.31,69.00 194.14,69.00 226.97,69.00 259.79,69.00 292.62,69.00 325.45,69.00 358.28,69.00 391.10,69.00 423.93,69.00 456.76,69.00 489.59,69.00 522.41,69.00 555.24,69.00 588.07,69.00 620.90,69.00 653.72,69.00 686.55,69.00 719.38,69.00 752.21,69.00 785.03,30.00 817.86,69.00 850.69,69.00 883.52,69.00 916.34,69.00 949.17,30.00 982.00,69.00" class="line"/><circle cx="785.0344827586207" cy="30" r="2.5" class="dot"/><circle cx="949.1724137931035" cy="30" r="2.5" class="dot"/><text x="30" y="88" text-anchor="middle">9/26</text><text x="259.7931034482759" y="88" text-anchor="middle">10/3</text><text x="489.58620689655174" y="88" text-anchor="middle">10/10</text><text x="719.3793103448276" y="88" text-anchor="middle">10/17</text><text x="949.1724137931035" y="88" text-anchor="middle">10/24</text><text x="982" y="88" text-anchor="middle">10/25</text>
+</svg>
