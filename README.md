@@ -1,5 +1,8 @@
  #  [ Open to opportunities ] Hi, I'm Lee Sangmyeong.
 
+![Profile views](https://komarev.com/ghpvc/?username=sngmng6506&label=Profile%20views&color=888888)
+
+
 1. AI Engineer in manufacturing.
 2. AI-native Builder
 
