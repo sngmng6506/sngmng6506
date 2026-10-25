@@ -18,8 +18,6 @@
 ## 🧭 Now
 - AI Engineer at [Hanwha Momentum](https://m.hanwhamomentum.com/) 
 
----
-
 
 ## 🚀 Side Projects & Competitions
 
