@@ -1,206 +1,62 @@
- #  [ Open to opportunities ] Hi, I'm Lee Sangmyeong.
-
-![Profile views](https://komarev.com/ghpvc/?username=sngmng6506&label=Profile%20views&color=888888)
-
-
-1. AI Engineer in manufacturing.
-2. AI-native Builder
-
-   
-- "Code" → Here
-- "Research Notes" → https://lifes-ng.tistory.com/
-- "Engineering Notes" → https://velog.io/@sngmng6506/posts
-- "Portfolio" →  [PDF](portfolio_260808.pdf)
-- "Support me" → [Buy Me a Coffee](https://buymeacoffee.com/sngmng)
-
----
-
-## 🧭 Now
-- AI Engineer at [Hanwha Momentum](https://m.hanwhamomentum.com/) 
-
----
-
-
-## 🚀 Side Projects & Competitions
-
-
-<details>
-<summary>Click to expand</summary>
- 
-**☕ Caffeine Flow (2026.04 - )**
-
-- Developed a café music request platform with LLM-powered filtering tailored to each café’s policies.
-- Currently participating in the [모두의 창업](https://www.modoo.or.kr/member/%ED%95%98%EC%9D%B42) startup support program to further develop and commercialize the platform.
-
-
-**🏆 SK hynix AI Hackathon (2026.10 - )**
-
-- Currently participating in the SK hynix AI Hackathon.
-
-
-**📈 Stock Peek (2026.05 - 2026.06, now in maintenance)**
-- Built a Windows desktop widget that shows your watchlist quotes when you move the cursor to the screen edge
-- [stock-peek.com](https://stock-peek.com/)
-
-  
-
-</details>
-
----
-
-## 🏫 Experience
-
-<details>
-<summary>Click to expand</summary>
-
-### 🏢 Hanwha Momentum
-**AI Engineer** (2024.12 - )  
-- Developing AI solutions for battery manufacturing equipment.
-
-### 🎓 Hanyang University – AI Graduate School  
-**M.S. in Artificial Intelligence** (2023.03 – 2025.02)  
-**Affiliation:** [DI Lab (Data Intelligence Lab)](https://dilab.hanyang.ac.kr/)
-
-**Research Focus**
-- Explainable AI (XAI), Tabular and time-series data
-- Model multiplicity and its implications for explainability
-  * I study why multiple high-performing models can lead to different explanations, often referred to as the Rashomon effect.
-
-### 🎓 The Catholic University of Korea – Department of Physics
-**B.S. in Physics** (2016.03 – 2023.02)
-- Major GPA: 4.14/4.5
-
-**Undergraduate Research Experience**
-- Undergraduate researcher at [Network & Systems Lab (NSLab)](https://nslab-cuk.github.io/) (2022)
-- Participated in research on medical knowledge graph representation learning
-  * ["Companion Animal Disease Diagnostics Based on Literal-Aware Medical Knowledge Graph Representation Learning"](https://arxiv.org/abs/2309.03219)
-
-</details>
-
----
-
-## 🏢 Industry Projects
-
-<details>
-<summary>Click to expand</summary>
-
-- **Vision-based Defect Detection PoC** *(2025)*
-  - Trained and evaluated YOLO- and DETR-based models for industrial defect detection.
-
-- **LLM-based Chatbot PoC** *(Industry–Academia Project, 2025)*
-  - Implemented and compared RAG, TAG, and fine-tuning approaches for an industrial chatbot.
-
-- **Vision-based Measurement and Alignment System** *(2026 – Present)*
-  - Developing vision-based measurement(µm) and alignment control algorithms for battery manufacturing equipment.
-
-</details>
-
----
-
-## 🏭 Graduate School Projects
-
-<details>
-<summary>Click to expand</summary>
-
-- **National Security Research Institute (NSR)** — *Research Lead*  
-  *(2023.04 – 2023.09)*  
-  - Analyzed the relationship between training data information content and time-series anomaly detection performance.
-
-- **Samsung Electronics** — *Research Engineer*  
-  *(2023.10 – 2024.04)*  
-  - Developed explainable AI models for semiconductor process data analysis with uncertainty-aware interpretations.
-
-- **Hyundai Motor Company** — *Research Lead*  
-  *(2024.03 – 2024.11)*  
-  - Developed interpretable AI models for vehicle load prediction and prognostics.
-
-</details>
-
----
-
-## 📄 Publications
-
-<details>
-<summary>Click to expand</summary>
- 
-- ~~**An XAI Model for Semiconductor Manufacturing Processes based on Confidence Interval Visualization for the Impact of Process Parameters** *(First Author)*~~  
-  ~~*KISM 2023 (Korean International Semiconductor Conference on Manufacturing Technology)*, 2023.11~~  
-  - ~~Visualized confidence intervals of process parameter effects to support uncertainty-aware interpretation of semiconductor manufacturing data.~~
-
-- ~~**An XAI Model for Semiconductor Manufacturing Processes with Exploring Process Parameter Interactions based on Uncertainty** *(Co-author)*~~  
-  ~~*KISM 2023 (Korean International Semiconductor Conference on Manufacturing Technology)*, 2023.11~~  
-  - ~~Analyzed process parameter interactions in semiconductor manufacturing using XAI and uncertainty quantification.~~
-
-- [COMPANION ANIMAL DISEASE DIAGNOSTICS BASED ON LITERAL-AWARE MEDICAL KNOWLEDGE GRAPH REPRESENTATION LEARNING](https://arxiv.org/pdf/2309.03219) *(Co-author)*
-  *IEEE Access*, 2023
-  - Medical knowledge graph representation learning for companion animal disease diagnosis
-
-
-- [확률적 게이트를 통한 일반화 가법 모형의 안정적인 희소성 제약](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862086) (Stable Sparsity Constraint in Generalized Additive Models via Stochastic Gate) *(First Author)* *KCC 2024*
-  - Proposed stable sparsity constraints for generalized additive models to improve interpretability for tabular data.
-
-- [희소한 일반화 가법 모형에서 신뢰할 수 있는 특징 선택을 위한 안정성 순위 기반 앙상블 기법](https://lib.hanyang.ac.kr/search/i-discovery/23237461?type=biblios-list-view) (A Stability Rank-Based Ensemble Approach towards Reliable Feature Selection in Sparse Generalized Additive Models) *(First Author)* *Master's Thesis*, 2025  
-  - Robust variable selection and interpretability for tabular models
-
-</details>
-
-
----
-
-## 🪪 Certifications
-
-<details>
-<summary>Click to expand</summary>
-
-### ADsP
-- 25.05.17
-
-### PCCP Lv.2
-- 26.05.14
-
-</details>
-
----
-
-
-
-## 🛠 Tech Stack
-
-
-<details>
-<summary>Click to expand</summary>
-
-
-**Core Stack (Mainly Used)**
-- **Language**: Python
-- **Backend**: FastAPI
-- **ML/DL**: PyTorch
-
-**Experienced**
-- **Languages**: JavaScript, C++
-- **Backend**: Node.js, NestJS
-  
-
-</details>
-
-
----
-
-## 📚 Study & Community
-
-
-<details>
-<summary>Click to expand</summary>
-
-Organizer of an IT & AI study group (weekly, every Saturday) since 2026.01
-- Study group: [Link](https://www.somoim.co.kr/eb377bbe-e53f-46c2-a0a3-89b7dd98667c1)
-
-</details>
-
-
-## 📫 Contact
--  sngmng6506@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/sangmyeong-lee-a6a202268/)
-
----
-
+## [🚀 GitHub Profile Views Counter](https://github.com/gayanvoice/github-profile-views-counter)
+**GitHub Profile Views Counter** is an opensource project that powered entirely by  `GitHub Actions` to fetch and store insights of repositories.
+It uses `GitHub API` to fetch the insight data of your repositories and commits changes into a separate repository.
+
+The project created and maintained by [gayanvoice](https://github.com/gayanvoice). Don't forget to follow him on [GitHub](https://github.com/gayanvoice), [Twitter](https://twitter.com/gayanvoice), and [Medium](https://gayanvoice.medium.com/).
+
+<table>
+	<tr>
+		<th>
+			Repository
+		</th>
+		<th>
+			Last Updated
+		</th>
+		<th>
+			Unique
+		</th>
+		<th>
+			Views
+		</th>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/sngmng6506/sngmng6506/tree/master/readme/555248279/week.md">
+				sngmng6506
+			</a>
+		</td>
+		<td>
+			2026/10/21 12:00 AM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/sngmng6506/sngmng6506/raw/master/graph/555248279/small/week.png" height="20"> 8
+		</td>
+	</tr>
+</table>
+
+<small><i>Last updated on 2026/10/25 11:13 PM UTC</i></small>
+
+## ✂️Copy and 📋 Paste
+### Total Views Badge
+[![Image of https://github.com/sngmng6506/sngmng6506](https://github.com/sngmng6506/sngmng6506/blob/master/svg/profile/badge.svg)](https://github.com/sngmng6506/sngmng6506)
+
+```readme
+[![Image of https://github.com/sngmng6506/sngmng6506](https://github.com/sngmng6506/sngmng6506/blob/master/svg/profile/badge.svg)](https://github.com/sngmng6506/sngmng6506)
+```
+[**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
+## ⛔ DO NOT
+- Do not commit any changes to `./cache` directory. This feature helps to integrity of the records for visitors.
+- The app will automatically stop measuring insights until you revoke those commits.
+## 📦 Third party
+
+- [@octokit/rest](https://www.npmjs.com/package/@octokit/rest) - Send REST API requests to GitHub.
+- [fs-extra](https://www.npmjs.com/package/fs-extra) - Creating directories and files.
+- [simple-git](https://www.npmjs.com/package/simple-git) - Handling Git commands.
+- [node-chart-exec](https://www.npmjs.com/package/node-chart-exec) - Generate graphs.
+## 📄 License
+- Powered by: [GitHub Profile Views Counter](https://github.com/gayanvoice/github-profile-views-counter)
+- Code: [MIT](./LICENSE) © [gayanvoice](https://github.com/gayanvoice)
+- Data in the `./cache` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
