@@ -1,7 +1,7 @@
  #  [ Open to opportunities ] Hi, I'm Lee Sangmyeong.
 
 <!-- daily-repository-views -->
-<img src="https://raw.githubusercontent.com/sngmng6506/sngmng6506/8e068911344219286cfc247c7c60186ccd1382a0/graph/555248279/large/month.svg" alt="Daily unique visitors to the profile repository" width="100%">
+<img src="https://raw.githubusercontent.com/sngmng6506/sngmng6506/ef235d16daaefba6e67d1b9cd34c6ac982c7e38d/graph/555248279/large/month.svg" alt="Daily unique visitors to the profile repository" width="100%">
 <!-- /daily-repository-views -->
 
 1. AI Engineer in manufacturing.
