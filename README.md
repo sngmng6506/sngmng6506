@@ -1,10 +1,5 @@
  #  [ Open to opportunities ] Hi, I'm Lee Sangmyeong.
 
-<!-- daily-repository-views -->
-<img src="https://raw.githubusercontent.com/sngmng6506/sngmng6506/ef235d16daaefba6e67d1b9cd34c6ac982c7e38d/graph/555248279/large/month.svg" alt="Daily unique visitors to the profile repository" width="100%">
-<!-- /daily-repository-views -->
-
-
 ---
 
 
@@ -211,6 +206,12 @@ Organizer of an IT & AI study group (weekly, every Saturday) since 2026.01
 ---
 
 
+<!-- daily-repository-views -->
+<img src="https://raw.githubusercontent.com/sngmng6506/sngmng6506/ef235d16daaefba6e67d1b9cd34c6ac982c7e38d/graph/555248279/large/month.svg" alt="Daily unique visitors to the profile repository" width="100%">
+<!-- /daily-repository-views -->
+
+---
+
 <!-- activity-atlas -->
 ## Activity Map
 
@@ -220,4 +221,6 @@ Organizer of an IT & AI study group (weekly, every Saturday) since 2026.01
 <!-- /activity-atlas -->
 
 ---
+
+
 
