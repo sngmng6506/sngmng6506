@@ -1,6 +1,5 @@
  #  [ Open to opportunities ] Hi, I'm Lee Sangmyeong.
 
----
 
 
 
