@@ -41,6 +41,7 @@ jobs:
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add views/history.json views/daily.svg
           git commit -m "Record daily profile views"
+          git pull --rebase origin master
           git push origin HEAD:master
           echo "GRAPH_COMMIT=$(git rev-parse HEAD)" >> "$GITHUB_ENV"
 
@@ -69,5 +70,6 @@ jobs:
           git add README.md
           if ! git diff --cached --quiet; then
             git commit -m "Update daily profile views graph"
+            git pull --rebase origin main
             git push origin HEAD:main
           fi

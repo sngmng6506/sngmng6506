@@ -40,8 +40,14 @@ def daily_views(history: list[dict]) -> dict[str, int]:
         if delta < 0:  # counter reset or anomaly
             continue
         at = datetime.fromisoformat(cur["at"]).astimezone(KST)
-        day = (at - timedelta(days=1)).date().isoformat()
-        days[day] = days.get(day, 0) + delta
+        elapsed = at - datetime.fromisoformat(prev["at"]).astimezone(KST)
+        # Spread over the days covered when a scheduled run was skipped.
+        n = max(1, round(elapsed / timedelta(days=1)))
+        last = (at - timedelta(days=1)).date()
+        for k in range(n):
+            share = delta // n + (1 if k < delta % n else 0)
+            day = (last - timedelta(days=k)).isoformat()
+            days[day] = days.get(day, 0) + share
     return days
 
 
