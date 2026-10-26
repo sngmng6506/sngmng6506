@@ -1,4 +1,4 @@
-name: Daily profile repository views
+name: Daily profile views
 
 on:
   schedule:
@@ -6,151 +6,68 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ['.github/workflows/profile-views.yml']
+    paths: ['.github/workflows/profile-views.yml', 'scripts/profile-views.py']
 
 permissions:
   contents: write
 
 concurrency:
-  group: profile-repository-views
+  group: profile-views
   cancel-in-progress: false
 
 jobs:
   graph:
     runs-on: ubuntu-24.04
     steps:
-      - name: Check traffic API credential
-        env:
-          INSIGHTS_TOKEN: ${{ secrets.INSIGHTS_TOKEN_profile }}
-        run: |
-          if [ -z "$INSIGHTS_TOKEN" ]; then
-            echo "::error::Add INSIGHTS_TOKEN_profile in repository Settings > Secrets and variables > Actions. Use a token restricted to this repository with Administration read access."
-            exit 1
-          fi
-
-      # Upstream writes README.md and pushes to master. Keep that work off the profile's main branch.
+      # Data and graph live on master so the profile's main branch only gets a README link change.
       - uses: actions/checkout@v5
         with:
           ref: master
-          fetch-depth: 0
-
-      - uses: actions/setup-node@v6
-        with:
-          node-version: '24'
-
-      - name: Generate traffic history and graphs
-        uses: gayanvoice/github-profile-views-counter-action@2d855d44a247dbe33388f16082e3848e99304a24 # 5.0.0
-        env:
-          INSIGHTS_TOKEN: ${{ secrets.INSIGHTS_TOKEN_profile }}
-          USER_AGENT: sngmng6506-profile-views
-
-      - name: Render only daily unique visitors
-        shell: bash
-        run: |
-          node --input-type=module <<'JS'
-          import { readFileSync, writeFileSync } from 'node:fs'
-          const records = JSON.parse(readFileSync('cache/555248279/records.json', 'utf8'))
-          const byDay = new Map(records.map(row => [row.timestamp.slice(0, 10), row]))
-          const end = new Date()
-          end.setUTCHours(0, 0, 0, 0)
-          end.setUTCDate(end.getUTCDate() - 1)
-          const rows = Array.from({length: 90}, (_, i) => {
-            const day = new Date(end)
-            day.setUTCDate(day.getUTCDate() - (89 - i))
-            const timestamp = day.toISOString()
-            return {timestamp, uniques: byDay.get(timestamp.slice(0, 10))?.uniques ?? null}
-          })
-          const width = 1000, height = 150
-          const left = 30, right = 982, top = 35, bottom = 118
-          const values = rows.map(row => row.uniques === null ? null : Math.max(0, Number(row.uniques) || 0))
-          const maximum = Math.max(1, ...values)
-          const x = i => left + i * (right - left) / Math.max(1, rows.length - 1)
-          const y = value => bottom - value / maximum * (bottom - top)
-          let connected = false
-          const path = values.map((value, i) => {
-            if (value === null) { connected = false; return '' }
-            const command = connected ? 'L' : 'M'
-            connected = true
-            return command + x(i).toFixed(2) + ',' + y(value).toFixed(2)
-          }).join(' ')
-          const dayTicks = rows.map((_, i) => '<line x1="' + x(i) + '" y1="118" x2="' + x(i) + '" y2="121" class="grid" opacity=".4"/>').join('')
-          const dateLabel = row => {
-            const date = new Date(row.timestamp)
-            return (date.getUTCMonth() + 1) + '/' + date.getUTCDate()
-          }
-          const ticks = rows.map((row, i) => {
-            if (i % 14 !== 0 && i !== rows.length - 1) return ''
-            return '<text x="' + x(i) + '" y="141" text-anchor="middle">' + dateLabel(row) + '</text>'
-          }).join('')
-          const dots = values.map((value, i) => value > 0
-            ? '<circle cx="' + x(i) + '" cy="' + y(value) + '" r="1.8" class="dot"/>' : '').join('')
-          const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" role="img" aria-labelledby="title desc">
-          <title id="title">Daily unique visitors</title>
-          <desc id="desc">Unique visitors per UTC day to the profile repository over the last 90 completed UTC days. Missing historical data is left blank.</desc>
-          <style>
-          text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif;font-size:11px;fill:#6e7781}
-          .heading{font-size:12px;font-weight:600;fill:#57606a}
-          .grid{stroke:#d8dee4;stroke-width:1}
-          .line{fill:none;stroke:#318b9e;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round}
-          .dot{fill:#318b9e;stroke:#fff;stroke-width:1}
-          @media(prefers-color-scheme:dark){text{fill:#8b949e}.heading{fill:#b1bac4}.grid{stroke:#30363d}.line{stroke:#65b7c6}.dot{fill:#65b7c6;stroke:#0d1117}}
-          </style>
-          <text x="30" y="15" class="heading">DAILY UNIQUE VISITORS</text>
-          <text x="982" y="15" text-anchor="end">Last 90 days · UTC</text>
-          <line x1="30" y1="35" x2="982" y2="35" class="grid" stroke-dasharray="2 4" opacity=".55"/>
-          <line x1="30" y1="118" x2="982" y2="118" class="grid"/>
-          <text x="20" y="39" text-anchor="end">${maximum}</text><text x="20" y="122" text-anchor="end">0</text>
-          <path d="${path}" class="line"/>${dots}${dayTicks}${ticks}
-          </svg>`
-          writeFileSync('graph/555248279/large/month.svg', svg)
-          JS
-          git add graph/555248279/large/month.svg
-          if ! git diff --cached --quiet; then
-            git commit -m "Render crisp minimal SVG visitor graph"
-            git push origin HEAD:master
-          fi
-
-      - name: Verify graph was generated and saved
-        run: |
-          test -s graph/555248279/large/month.svg
-          git fetch origin master
-          git cat-file -e origin/master:graph/555248279/large/month.svg
-
-      - name: Select immutable graph URL
-        run: echo "GRAPH_COMMIT=$(git rev-parse origin/master)" >> "$GITHUB_ENV"
+          path: data
 
       - uses: actions/checkout@v5
         with:
           ref: main
           path: profile
 
-      - name: Show only the graph in the profile README
+      - name: Record komarev total and render daily views
+        working-directory: data
+        run: python ../profile/scripts/profile-views.py
+
+      - name: Save data and graph
+        working-directory: data
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add views/history.json views/daily.svg
+          git commit -m "Record daily profile views"
+          git push origin HEAD:master
+          echo "GRAPH_COMMIT=$(git rev-parse HEAD)" >> "$GITHUB_ENV"
+
+      - name: Point README at the new graph
         working-directory: profile
         shell: python
         run: |
           import os, pathlib, re
           p = pathlib.Path("README.md")
           text = p.read_text()
-          graph = f'<img src="https://raw.githubusercontent.com/sngmng6506/sngmng6506/{os.environ["GRAPH_COMMIT"]}/graph/555248279/large/month.svg" alt="Daily unique visitors to the profile repository" width="100%">'
-          marker = "<!-- daily-repository-views -->"
-          block = marker + "\n" + graph + "\n<!-- /daily-repository-views -->"
-          if marker in text:
-              text = re.sub(r"<!-- daily-repository-views -->.*?<!-- /daily-repository-views -->", block, text, flags=re.S)
-          elif re.search(r"^!\[Profile views\]\(https://komarev\.com/ghpvc/[^\n]*\)\s*$", text, flags=re.M):
-              text = re.sub(r"^!\[Profile views\]\(https://komarev\.com/ghpvc/[^\n]*\)\s*$", lambda _: block + "\n", text, count=1, flags=re.M)
+          badge = '<img src="https://komarev.com/ghpvc/?username=sngmng6506&label=Profile%20views&color=888888" alt="Profile views">'
+          graph = f'<img src="https://raw.githubusercontent.com/sngmng6506/sngmng6506/{os.environ["GRAPH_COMMIT"]}/views/daily.svg" alt="Daily profile views" width="100%">'
+          block = "<!-- daily-repository-views -->\n" + badge + "\n\n" + graph + "\n<!-- /daily-repository-views -->"
+          pattern = r"<!-- daily-repository-views -->.*?<!-- /daily-repository-views -->"
+          if re.search(pattern, text, flags=re.S):
+              text = re.sub(pattern, lambda _: block, text, flags=re.S)
           else:
-              lines = text.splitlines(keepends=True)
-              lines.insert(1, "\n" + block + "\n")
-              text = "".join(lines)
+              text = text.rstrip("\n") + "\n\n" + block + "\n"
           p.write_text(text)
 
-      - name: Save profile graph link
+      - name: Save README link
         working-directory: profile
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add README.md
           if ! git diff --cached --quiet; then
-            git commit -m "Show daily repository views graph in profile"
+            git commit -m "Update daily profile views graph"
             git push origin HEAD:main
           fi
