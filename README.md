@@ -1,4 +1,4 @@
- #  [ Open to opportunities ] Hi, I'm Lee Sangmyeong.
+ #  Hi, I'm Lee Sangmyeong.
 
 
 
@@ -203,15 +203,6 @@ Organizer of an IT & AI study group (weekly, every Saturday) since 2026.01
 - [LinkedIn](https://www.linkedin.com/in/sangmyeong-lee-a6a202268/)
 
 </details>
-
-<!-- activity-atlas -->
-## Activity Map
-
-[![Sangmyeong's activity atlas](docs/activity-map/preview.svg)](https://sngmng6506.github.io/sngmng6506/activity-map/)
-
-
-<!-- /activity-atlas -->
-
 
 
 
