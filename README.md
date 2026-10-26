@@ -37,7 +37,7 @@
 **📈 Stock Peek (2026.05 - 2026.06, now in maintenance)**
 - Built a Windows desktop widget that shows your watchlist quotes when you move the cursor to the screen edge : [stock-peek.com](https://stock-peek.com/)
 
-**Something  (2026.11 - )**
+**🏠Something  (2026.11 - )**
 - .. 
   
 
