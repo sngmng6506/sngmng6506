@@ -35,10 +35,10 @@
 - Currently participating in the SK hynix AI Hackathon.
 
 
-**📈 Stock Peek (2026.05, now in maintenance)**
+**📈 Stock Peek (2026.05, running)**
 - Built a Windows desktop widget that shows your watchlist quotes when you move the cursor to the screen edge : [stock-peek.com](https://stock-peek.com/)
 
-**🪙 Coin Peek (2026.10, now in maintenance)**
+**🪙 Coin Peek (2026.10, running)**
 - After Stock Peek started getting visitors, built a crypto version for Windows and Mac that shows Upbit and Binance prices when you move the cursor to the screen edge : [coin-peek.com](https://coin-peek.com/)
 
 **🏠Something  (2026.11 - )**
