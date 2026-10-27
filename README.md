@@ -28,6 +28,7 @@
 
 - Developed a café music request platform with LLM-powered filtering tailored to each café’s policies.
 - Currently participating in the [모두의 창업](https://www.modoo.or.kr/member/%ED%95%98%EC%9D%B42) startup support program to further develop and commercialize the platform.
+- Authored a paper on representative audio segment selection for music tagging with audio language models, accepted for poster presentation at the 2026 KIIT Fall Conference.
 
 
 **🏆 SK hynix AI Hackathon (2026.10 - )**
