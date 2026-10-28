@@ -39,7 +39,7 @@
 
 </details>
 
-## 🚀 Slop websites
+## 🪄 Slop websites
 
 
 <details>
