@@ -36,6 +36,16 @@
 - Currently participating in the SK hynix AI Hackathon.
 
 
+
+</details>
+
+## 🚀 Slop websites
+
+
+<details>
+<summary>Click to expand</summary>
+
+
 **📈 Stock Peek (2026.05, running)**
 - Built a Windows desktop widget that shows your watchlist quotes when you move the cursor to the screen edge : [stock-peek.com](https://stock-peek.com/)
 
@@ -46,8 +56,8 @@
 - .. 
   
 
-</details>
 
+</details>
 
 
 ## 🏫 Experience
