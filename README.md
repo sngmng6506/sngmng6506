@@ -53,7 +53,7 @@
 - After Stock Peek started getting visitors, built a crypto version for Windows and Mac that shows Upbit and Binance prices when you move the cursor to the screen edge : [coin-peek.com](https://coin-peek.com/)
 
 **🏠 Rent or Buy (2026.10, running)**
-- Built a web calculator that shows whether buying, jeonse, or monthly rent leaves you with more money in Korea : rent-or-buy-kr.app
+- Built a web calculator that shows whether buying, jeonse, or monthly rent leaves you with more money in Korea : [rent-or-buy-kr.app](https://rent-or-buy-kr.app/)
   
 
 
