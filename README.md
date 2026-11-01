@@ -54,6 +54,9 @@
 
 **🏠 Rent or Buy (2026.10, running)**
 - Built a web calculator that shows whether buying, jeonse, or monthly rent leaves you with more money in Korea : [rent-or-buy-kr.app](https://rent-or-buy-kr.app/)
+
+
+**Something (2026.11 -)**
   
 
 
