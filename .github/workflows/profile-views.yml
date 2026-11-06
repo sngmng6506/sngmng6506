@@ -55,11 +55,17 @@ jobs:
           badge = '<img src="https://komarev.com/ghpvc/?username=sngmng6506&label=Profile%20views&color=888888" alt="Profile views">'
           graph = f'<img src="https://raw.githubusercontent.com/sngmng6506/sngmng6506/{os.environ["GRAPH_COMMIT"]}/views/daily.svg" alt="Daily profile views" width="100%">'
           block = "<!-- daily-repository-views -->\n" + badge + "\n\n" + graph + "\n<!-- /daily-repository-views -->"
-          pattern = r"<!-- daily-repository-views -->.*?<!-- /daily-repository-views -->"
-          if re.search(pattern, text, flags=re.S):
-              text = re.sub(pattern, lambda _: block, text, flags=re.S)
-          else:
-              text = text.rstrip("\n") + "\n\n" + block + "\n"
+          # Remove both managed blocks and any legacy orphaned graph.
+          text = re.sub(r"<!-- daily-repository-views -->.*?<!-- /daily-repository-views -->", "", text, flags=re.S)
+          text = "\n".join(
+              line for line in text.splitlines()
+              if 'alt="Daily profile views"' not in line
+              and 'alt="Profile views"' not in line
+              and "<!-- daily-repository-views -->" not in line
+              and "<!-- /daily-repository-views -->" not in line
+          )
+          text = text.rstrip("\n") + "\n\n" + block + "\n"
+
           p.write_text(text)
 
       - name: Save README link
