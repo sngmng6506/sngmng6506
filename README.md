@@ -224,12 +224,8 @@ Organizer of an IT & AI study group (weekly, every Saturday) since 2026.01
 
 </details>
 
-
-<img src="https://raw.githubusercontent.com/sngmng6506/sngmng6506/510813446792161bbc1f3bea39361b7b881cdedf/views/daily.svg" alt="Daily profile views" width="100%">
-<!-- /daily-repository-views -->
-
 <!-- daily-repository-views -->
 <img src="https://komarev.com/ghpvc/?username=sngmng6506&label=Profile%20views&color=888888" alt="Profile views">
 
-<img src="https://raw.githubusercontent.com/sngmng6506/sngmng6506/23db19b81c554e43cb4bda30f0b2afbbb1841cb5/views/daily.svg" alt="Daily profile views" width="100%">
+<img src="https://raw.githubusercontent.com/sngmng6506/sngmng6506/7a1f3c0bd2e8d0f3ca153b1fe91cb07959ea2088/views/daily.svg" alt="Daily profile views" width="100%">
 <!-- /daily-repository-views -->
