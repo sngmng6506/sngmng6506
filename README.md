@@ -139,11 +139,11 @@
 <details>
 <summary>Click to expand</summary>
  
-- [An XAI Model for Semiconductor Manufacturing Processes based on Confidence Interval Visualization for the Impact of Process Parameters]((https://kism.kr/2023/download/KISM2023_Program_20231103_Web.pdf)) *(First Author)*
+- [An XAI Model for Semiconductor Manufacturing Processes based on Confidence Interval Visualization for the Impact of Process Parameters](https://kism.kr/2023/download/KISM2023_Program_20231103_Web.pdf) *(First Author)*
   *KISM 2023 (Korean International Semiconductor Conference on Manufacturing Technology)*, 2023.11
   - Visualized confidence intervals of process parameter effects to support uncertainty-aware interpretation of semiconductor manufacturing data.
 
-- [An XAI Model for Semiconductor Manufacturing Processes with Exploring Process Parameter Interactions based on Uncertainty]((https://kism.kr/2023/download/KISM2023_Program_20231103_Web.pdf)*(Co-author)*
+- [An XAI Model for Semiconductor Manufacturing Processes with Exploring Process Parameter Interactions based on Uncertainty](https://kism.kr/2023/download/KISM2023_Program_20231103_Web.pdf)*(Co-author)*
   *KISM 2023 (Korean International Semiconductor Conference on Manufacturing Technology)*, 2023.11
   - Analyzed process parameter interactions in semiconductor manufacturing using XAI and uncertainty quantification.
 
