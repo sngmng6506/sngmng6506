@@ -31,13 +31,19 @@
 - Authored a paper on representative audio segment selection for music tagging with audio language models, accepted for poster presentation at the 2026 KIIT Fall Conference.
 
 
-**🏆 SK hynix AI Hackathon (2026.10 - )**
-
-- Currently participating in the SK hynix AI Hackathon.
-
-
 
 </details>
+
+## 💥 Failures
+
+<details>
+<summary>Click to expand</summary>
+
+**SK hynix AI Hackathon (2026.10)**
+- Passed the first preliminary round, but was eliminated in the second.
+
+</details>
+
 
 ## 🪄 Slop websites (3/10)
 
