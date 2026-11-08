@@ -218,6 +218,17 @@ Organizer of an IT & AI study group (weekly, every Saturday) since 2026.01
 </details>
 
 
+## 💥 Failures
+
+<details>
+<summary>Click to expand</summary>
+
+**SK hynix AI Hackathon (2026.10)**
+- Passed the first preliminary round, but was eliminated in the second.
+
+</details>
+
+
 ## 📫 Contact
 
 <details>
