@@ -34,15 +34,6 @@
 
 </details>
 
-## 💥 Failures
-
-<details>
-<summary>Click to expand</summary>
-
-**SK hynix AI Hackathon (2026.10)**
-- Passed the first preliminary round, but was eliminated in the second.
-
-</details>
 
 
 ## 🪄 Slop websites (3/10)
