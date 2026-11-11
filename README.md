@@ -4,7 +4,7 @@
 
 
 1. AI Engineer in manufacturing.
-2. AI-native Builder
+
 
    
 - "Code" → Here
