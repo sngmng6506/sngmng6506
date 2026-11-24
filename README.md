@@ -136,16 +136,15 @@
 <details>
 <summary>Click to expand</summary>
  
-- **An XAI Model for Semiconductor Manufacturing Processes** *(Two poster papers)*  
-  *KISM 2023 (Korean International Semiconductor Conference on Manufacturing Technology)*, 2023.11 · [Program](https://kism.kr/2023/download/KISM2023_Program_20231103_Web.pdf)
-  - *Based on Confidence Interval Visualization for the Impact of Process Parameters* (P1-042, **First Author**): Visualized confidence intervals of process parameter effects to support uncertainty-aware interpretation of semiconductor manufacturing data.
-  - *With Exploring Process Parameter Interactions based on Uncertainty* (P1-043, Co-author): Analyzed process parameter interactions using XAI and uncertainty quantification.
- 
 
 - [COMPANION ANIMAL DISEASE DIAGNOSTICS BASED ON LITERAL-AWARE MEDICAL KNOWLEDGE GRAPH REPRESENTATION LEARNING](https://arxiv.org/pdf/2309.03219) *(Co-author)*
   *IEEE Access*, 2023
   - Medical knowledge graph representation learning for companion animal disease diagnosis
 
+- **An XAI Model for Semiconductor Manufacturing Processes** *(Two poster papers)*  
+  *KISM 2023 (Korean International Semiconductor Conference on Manufacturing Technology)*, 2023.11 · [Program](https://kism.kr/2023/download/KISM2023_Program_20231103_Web.pdf)
+  - *Based on Confidence Interval Visualization for the Impact of Process Parameters* (P1-042, **First Author**): Visualized confidence intervals of process parameter effects to support uncertainty-aware interpretation of semiconductor manufacturing data.
+  - *With Exploring Process Parameter Interactions based on Uncertainty* (P1-043, Co-author): Analyzed process parameter interactions using XAI and uncertainty quantification.
 
 - [확률적 게이트를 통한 일반화 가법 모형의 안정적인 희소성 제약](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862086) (Stable Sparsity Constraint in Generalized Additive Models via Stochastic Gate) *(First Author)* *KCC 2024*
   - Proposed stable sparsity constraints for generalized additive models to improve interpretability for tabular data.
