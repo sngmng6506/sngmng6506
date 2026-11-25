@@ -1,4 +1,4 @@
- #  Hi, I'm Lee Sangmyeong.
+ #  Hi,
 
 
 
